@@ -1,0 +1,1001 @@
+Matricula;Nome;Genero;Departamento;Cargo;Formacao;Escolaridade;Salario_Bruto;Horas_Trabalhadas;Bonificacao
+1;Funcionário 1;Feminino;Operações;Diretor;Engenharia de Produção;Pós-graduação;;139.9;315.92
+2;Funcionário 2;Feminino;Financeiro;Analista;Administração;Pós-graduação;5128.93;117.1;467.94
+3;Funcionário 3;Não Informado;Marketing;Assistente;Marketing;Mestrado;6127.92;195.9;
+4;Funcionário 4;Não Informado;Marketing;Coordenador;Marketing;Tecnólogo;5844.48;155.9;199.47
+5;Funcionário 5;Não Informado;Marketing;Gerente;Comunicação Social;Graduação;3207.52;151.0;318.89
+6;Funcionário 6;Masculino;RH;Diretor;Psicologia;Mestrado;4249.39;156.0;553.01
+7;Funcionário 7;Não Informado;Marketing;Diretor;Comunicação Social;Ensino Médio;5379.21;188.4;725.94
+8;Funcionário 8;Feminino;TI;Diretor;Engenharia da Computação;Pós-graduação;4387.98;140.7;569.8
+9;Funcionário 9;Masculino;Operações;Assistente;Engenharia de Produção;Ensino Médio;7661.99;173.6;494.84
+10;Funcionário 10;Masculino;Financeiro;Coordenador;Economia;Pós-graduação;4410.27;151.5;187.52
+11;Funcionário 11;Não Informado;Financeiro;Diretor;Administração;Tecnólogo;4756.67;148.1;376.53
+12;Funcionário 12;Não Informado;Operações;Coordenador;Logística;Graduação;6154.15;171.3;
+13;Funcionário 13;Não Informado;TI;Gerente;Engenharia da Computação;Mestrado;5495.8;179.8;716.19
+14;Funcionário 14;Masculino;RH;;Recursos Humanos;Mestrado;4782.09;149.7;677.88
+15;Funcionário 15;Não Informado;Financeiro;Analista;Administração;Graduação;3865.26;144.6;527.61
+16;Funcionário 16;Não Informado;RH;Gerente;Administração;Mestrado;5452.27;136.6;740.92
+17;Funcionário 17;Não Informado;RH;Analista;Administração;Pós-graduação;;182.1;1076.29
+18;Funcionário 18;Não Informado;Financeiro;Diretor;Administração;Mestrado;5718.64;148.5;381.23
+19;Funcionário 19;Não Informado;;Assistente;;Tecnólogo;3832.72;123.0;347.38
+20;Funcionário 20;Masculino;Operações;Analista;Logística;Ensino Médio;7605.16;188.2;803.7
+21;Funcionário 21;Masculino;Marketing;Gerente;Marketing;Pós-graduação;;132.6;547.09
+22;Funcionário 22;Feminino;Financeiro;Assistente;Administração;Mestrado;2625.97;175.6;522.46
+23;Funcionário 23;Feminino;Marketing;Gerente;Marketing;Tecnólogo;6440.84;163.7;578.47
+24;Funcionário 24;Feminino;Financeiro;Diretor;Administração;Mestrado;5338.76;165.8;369.1
+25;Funcionário 25;Masculino;TI;Gerente;Sistemas de Informação;Pós-graduação;4175.75;148.3;293.04
+26;Funcionário 26;Não Informado;Marketing;Diretor;Publicidade e Propaganda;Graduação;3352.14;167.3;344.57
+27;Funcionário 27;Não Informado;Financeiro;Analista;Administração;Pós-graduação;;126.6;749.19
+28;Funcionário 28;Não Informado;RH;Assistente;Administração;Ensino Médio;5175.64;171.8;212.67
+29;Funcionário 29;Feminino;Marketing;Coordenador;Comunicação Social;Graduação;5801.3;191.1;599.73
+30;Funcionário 30;Masculino;Marketing;Assistente;Publicidade e Propaganda;Tecnólogo;5476.83;177.7;388.46
+31;Funcionário 31;Feminino;;Coordenador;;Tecnólogo;5652.21;119.6;429.33
+32;Funcionário 32;Feminino;Financeiro;;Administração;Ensino Médio;5810.14;140.3;648.59
+33;Funcionário 33;Feminino;RH;Gerente;Recursos Humanos;Ensino Médio;6098.64;156.2;668.8
+34;Funcionário 34;Não Informado;RH;Diretor;Recursos Humanos;Mestrado;4437.17;169.7;568.6
+35;Funcionário 35;Não Informado;RH;Diretor;Recursos Humanos;Ensino Médio;4562.54;;125.38
+36;Funcionário 36;Não Informado;Financeiro;Diretor;Contabilidade;Graduação;2388.47;150.1;814.19
+37;Funcionário 37;Feminino;TI;Analista;Engenharia da Computação;Ensino Médio;3829.54;171.9;
+38;Funcionário 38;Feminino;Operações;Analista;Administração;Pós-graduação;5406.67;183.3;518.29
+39;Funcionário 39;Masculino;Marketing;Coordenador;Comunicação Social;Graduação;;155.4;502.05
+40;Funcionário 40;Não Informado;Marketing;;Marketing;Pós-graduação;;174.6;860.29
+41;Funcionário 41;Feminino;TI;Assistente;Sistemas de Informação;Graduação;4488.96;108.4;689.44
+42;Funcionário 42;Masculino;Operações;Gerente;Administração;Ensino Médio;3105.24;;494.14
+43;Funcionário 43;Feminino;TI;Coordenador;Ciência da Computação;Mestrado;833.96;;441.53
+44;Funcionário 44;Feminino;Financeiro;Analista;Contabilidade;Graduação;6727.6;150.2;461.29
+45;Funcionário 45;Feminino;Financeiro;Analista;Contabilidade;Ensino Médio;4116.16;;
+46;Funcionário 46;Masculino;Operações;Diretor;Engenharia de Produção;Tecnólogo;4327.3;;708.0
+47;Funcionário 47;Masculino;Financeiro;Coordenador;Contabilidade;Tecnólogo;5197.36;170.1;
+48;Funcionário 48;Masculino;Operações;Coordenador;Administração;Tecnólogo;2891.66;147.6;
+49;Funcionário 49;Não Informado;RH;Analista;Recursos Humanos;Graduação;4475.33;129.5;672.82
+50;Funcionário 50;Masculino;Operações;Coordenador;Engenharia de Produção;Ensino Médio;8035.21;171.1;198.71
+51;Funcionário 51;Não Informado;RH;Diretor;Psicologia;Mestrado;5758.08;123.2;
+52;Funcionário 52;Feminino;;Diretor;;Tecnólogo;5538.87;;144.59
+53;Funcionário 53;Não Informado;TI;Analista;Sistemas de Informação;Tecnólogo;;;525.9
+54;Funcionário 54;Masculino;Financeiro;Analista;Administração;Ensino Médio;8365.4;;83.35
+55;Funcionário 55;Não Informado;RH;Coordenador;Recursos Humanos;Mestrado;2865.81;165.7;363.65
+56;Funcionário 56;Masculino;RH;Coordenador;Recursos Humanos;Mestrado;7883.49;159.9;377.79
+57;Funcionário 57;Feminino;RH;Assistente;Recursos Humanos;Graduação;1827.42;159.3;358.23
+58;Funcionário 58;Masculino;RH;Coordenador;Recursos Humanos;Graduação;7108.05;158.3;790.31
+59;Funcionário 59;Masculino;Marketing;;Marketing;Ensino Médio;7427.08;168.4;607.1
+60;Funcionário 60;Não Informado;Marketing;Gerente;Publicidade e Propaganda;Graduação;3763.39;178.5;420.09
+61;Funcionário 61;Masculino;TI;Analista;Sistemas de Informação;Tecnólogo;5633.87;169.9;313.38
+62;Funcionário 62;Masculino;;Coordenador;;Mestrado;5821.22;180.2;452.24
+63;Funcionário 63;Não Informado;Financeiro;Gerente;Economia;Mestrado;3779.31;159.1;294.18
+64;Funcionário 64;Não Informado;Marketing;Coordenador;Comunicação Social;Ensino Médio;2826.32;192.4;694.62
+65;Funcionário 65;Masculino;Operações;Analista;Administração;Ensino Médio;3023.42;171.4;899.35
+66;Funcionário 66;Masculino;;Assistente;;Graduação;5811.51;149.1;710.64
+67;Funcionário 67;Não Informado;TI;Diretor;Sistemas de Informação;Ensino Médio;4872.33;138.1;566.34
+68;Funcionário 68;Feminino;Operações;Analista;Logística;Ensino Médio;4153.55;164.1;466.87
+69;Funcionário 69;Não Informado;Marketing;Analista;Marketing;Tecnólogo;6450.15;133.9;418.98
+70;Funcionário 70;Não Informado;Operações;Gerente;Administração;Graduação;5762.1;140.5;849.06
+71;Funcionário 71;Masculino;;;;Pós-graduação;3866.81;164.8;
+72;Funcionário 72;Não Informado;;Gerente;;Tecnólogo;3198.2;147.8;812.22
+73;Funcionário 73;Não Informado;Marketing;Assistente;Marketing;Pós-graduação;5784.89;;273.69
+74;Funcionário 74;Feminino;Operações;Gerente;Administração;Graduação;4193.62;159.3;440.75
+75;Funcionário 75;Masculino;Operações;Analista;Engenharia de Produção;Graduação;5148.81;161.5;157.19
+76;Funcionário 76;Masculino;Operações;Gerente;Engenharia de Produção;Mestrado;;155.9;531.85
+77;Funcionário 77;Feminino;Financeiro;Coordenador;Contabilidade;Mestrado;5753.49;152.4;247.25
+78;Funcionário 78;Não Informado;Operações;;Administração;Ensino Médio;3706.6;177.1;833.01
+79;Funcionário 79;Feminino;Marketing;Diretor;Comunicação Social;Pós-graduação;5240.99;166.8;582.45
+80;Funcionário 80;Não Informado;TI;Coordenador;Sistemas de Informação;Ensino Médio;3571.03;155.5;607.48
+81;Funcionário 81;Não Informado;Financeiro;Diretor;Economia;Graduação;7412.78;;556.54
+82;Funcionário 82;Feminino;RH;Coordenador;Psicologia;Graduação;4157.63;163.9;281.49
+83;Funcionário 83;Masculino;RH;Assistente;Recursos Humanos;Ensino Médio;5310.91;182.6;524.82
+84;Funcionário 84;Masculino;Marketing;;Publicidade e Propaganda;Pós-graduação;5461.6;148.8;867.42
+85;Funcionário 85;Não Informado;Financeiro;Analista;Administração;Graduação;5238.88;132.7;501.71
+86;Funcionário 86;Masculino;Financeiro;Diretor;Contabilidade;Mestrado;2062.18;144.2;296.6
+87;Funcionário 87;Feminino;RH;Diretor;Recursos Humanos;Mestrado;2830.37;154.6;
+88;Funcionário 88;Feminino;TI;Analista;Sistemas de Informação;Mestrado;4321.47;150.1;357.33
+89;Funcionário 89;Feminino;Operações;Analista;Engenharia de Produção;Tecnólogo;5479.15;186.7;147.55
+90;Funcionário 90;Feminino;TI;Gerente;Ciência da Computação;Graduação;4793.33;157.6;666.1
+91;Funcionário 91;Feminino;Financeiro;Diretor;Contabilidade;Ensino Médio;;169.2;656.23
+92;Funcionário 92;Masculino;Marketing;;Comunicação Social;Graduação;2977.36;159.1;324.86
+93;Funcionário 93;Não Informado;TI;Diretor;Engenharia da Computação;Graduação;4397.66;151.3;622.8
+94;Funcionário 94;Feminino;TI;Gerente;Ciência da Computação;Ensino Médio;4297.29;160.8;384.71
+95;Funcionário 95;Não Informado;Financeiro;Assistente;Administração;Tecnólogo;5769.25;194.3;490.88
+96;Funcionário 96;Não Informado;RH;Assistente;Administração;Graduação;4510.52;144.6;
+97;Funcionário 97;Feminino;Financeiro;Coordenador;Economia;Graduação;;175.3;411.21
+98;Funcionário 98;Não Informado;TI;Analista;Sistemas de Informação;Graduação;4108.03;;583.64
+99;Funcionário 99;Masculino;TI;Assistente;Engenharia da Computação;Graduação;4616.06;150.8;162.85
+100;Funcionário 100;Não Informado;Marketing;Assistente;Publicidade e Propaganda;Tecnólogo;4477.93;160.1;523.49
+101;Funcionário 101;Não Informado;TI;Gerente;Engenharia da Computação;Ensino Médio;3826.45;166.5;493.01
+102;Funcionário 102;Feminino;Marketing;Assistente;Publicidade e Propaganda;Tecnólogo;;189.7;90.72
+103;Funcionário 103;Masculino;TI;Analista;Sistemas de Informação;Ensino Médio;3779.61;159.0;
+104;Funcionário 104;Feminino;RH;Assistente;Administração;Ensino Médio;4217.54;143.1;128.1
+105;Funcionário 105;Feminino;TI;Analista;Engenharia da Computação;Tecnólogo;;173.0;582.86
+106;Funcionário 106;Masculino;Marketing;Analista;Marketing;Ensino Médio;3053.93;152.7;524.79
+107;Funcionário 107;Feminino;;Analista;;Pós-graduação;4512.6;164.8;554.79
+108;Funcionário 108;Não Informado;;Assistente;;Ensino Médio;3933.04;157.7;234.72
+109;Funcionário 109;Masculino;TI;Analista;Ciência da Computação;Ensino Médio;4417.77;121.1;
+110;Funcionário 110;Masculino;Marketing;Gerente;Comunicação Social;Graduação;4910.11;170.2;696.57
+111;Funcionário 111;Feminino;Operações;Assistente;Logística;Graduação;3800.13;171.7;346.61
+112;Funcionário 112;Masculino;RH;;Recursos Humanos;Pós-graduação;4669.89;178.5;735.21
+113;Funcionário 113;Feminino;TI;Assistente;Sistemas de Informação;Tecnólogo;6963.0;;
+114;Funcionário 114;Não Informado;Marketing;Gerente;Comunicação Social;Tecnólogo;4961.3;136.1;144.76
+115;Funcionário 115;Feminino;RH;Assistente;Administração;Pós-graduação;6717.89;170.3;
+116;Funcionário 116;Feminino;TI;Assistente;Engenharia da Computação;Ensino Médio;5519.74;168.2;646.74
+117;Funcionário 117;Masculino;RH;Coordenador;Administração;Ensino Médio;6161.24;151.6;479.19
+118;Funcionário 118;Masculino;Operações;Analista;Engenharia de Produção;Pós-graduação;3838.31;;676.24
+119;Funcionário 119;Feminino;TI;Assistente;Engenharia da Computação;Ensino Médio;;170.0;482.33
+120;Funcionário 120;Não Informado;Marketing;Gerente;Comunicação Social;Ensino Médio;5200.87;135.6;553.53
+121;Funcionário 121;Feminino;Financeiro;Analista;Contabilidade;Graduação;4081.06;;924.71
+122;Funcionário 122;Não Informado;Marketing;Coordenador;Publicidade e Propaganda;Ensino Médio;3765.76;141.6;779.37
+123;Funcionário 123;Feminino;TI;Analista;Ciência da Computação;Tecnólogo;2764.6;147.0;413.43
+124;Funcionário 124;Masculino;Marketing;Coordenador;Comunicação Social;Pós-graduação;7244.21;124.5;574.99
+125;Funcionário 125;Não Informado;Financeiro;Gerente;Contabilidade;Graduação;3541.4;150.5;598.89
+126;Funcionário 126;Feminino;Financeiro;Assistente;Contabilidade;Graduação;7019.33;155.9;652.28
+127;Funcionário 127;Não Informado;Financeiro;;Contabilidade;Graduação;4298.76;171.0;514.2
+128;Funcionário 128;Não Informado;;Analista;;Pós-graduação;3706.26;160.0;401.29
+129;Funcionário 129;Feminino;TI;Gerente;Ciência da Computação;Tecnólogo;;129.2;499.28
+130;Funcionário 130;Não Informado;Marketing;Assistente;Comunicação Social;Pós-graduação;4053.21;;403.94
+131;Funcionário 131;Feminino;Financeiro;Assistente;Administração;Tecnólogo;5852.69;;836.67
+132;Funcionário 132;Feminino;Operações;Assistente;Administração;Tecnólogo;4500.78;169.8;748.15
+133;Funcionário 133;Não Informado;Financeiro;Assistente;Administração;Ensino Médio;;179.3;459.28
+134;Funcionário 134;Feminino;Financeiro;Gerente;Contabilidade;Graduação;;188.5;
+135;Funcionário 135;Masculino;TI;Assistente;Ciência da Computação;Tecnólogo;6247.03;199.2;466.91
+136;Funcionário 136;Não Informado;Marketing;Gerente;Marketing;Ensino Médio;5731.96;158.6;738.65
+137;Funcionário 137;Masculino;TI;Analista;Sistemas de Informação;Graduação;3620.52;166.2;
+138;Funcionário 138;Masculino;Marketing;Assistente;Publicidade e Propaganda;Pós-graduação;8964.4;138.4;613.72
+139;Funcionário 139;Masculino;Financeiro;Coordenador;Economia;Graduação;5810.18;181.2;674.25
+140;Funcionário 140;Masculino;Financeiro;Assistente;Economia;Tecnólogo;8435.7;136.3;632.11
+141;Funcionário 141;Masculino;Financeiro;Assistente;Economia;Graduação;7400.4;123.9;734.81
+142;Funcionário 142;Masculino;Marketing;Assistente;Publicidade e Propaganda;Ensino Médio;4716.75;;606.23
+143;Funcionário 143;Feminino;Financeiro;Gerente;Contabilidade;Graduação;4381.59;;530.38
+144;Funcionário 144;Feminino;TI;Gerente;Engenharia da Computação;Graduação;4394.81;175.6;384.55
+145;Funcionário 145;Não Informado;TI;Analista;Sistemas de Informação;Pós-graduação;2254.96;;185.65
+146;Funcionário 146;Masculino;Financeiro;Coordenador;Contabilidade;Graduação;;;
+147;Funcionário 147;Feminino;Operações;Analista;Engenharia de Produção;Graduação;5370.15;105.6;351.79
+148;Funcionário 148;Masculino;Marketing;Coordenador;Marketing;Tecnólogo;;138.1;512.0
+149;Funcionário 149;Não Informado;Operações;Analista;Logística;Pós-graduação;3840.84;160.3;728.1
+150;Funcionário 150;Feminino;Financeiro;Analista;Economia;Graduação;;135.6;534.56
+151;Funcionário 151;Feminino;Operações;Assistente;Logística;Ensino Médio;3121.11;146.9;417.0
+152;Funcionário 152;Feminino;Marketing;;Comunicação Social;Graduação;4120.52;130.8;329.37
+153;Funcionário 153;Masculino;Marketing;Gerente;Marketing;Graduação;;163.4;213.97
+154;Funcionário 154;Masculino;Operações;Analista;Administração;Ensino Médio;5557.72;161.8;766.56
+155;Funcionário 155;Feminino;RH;;Administração;Ensino Médio;;150.4;
+156;Funcionário 156;Masculino;Marketing;;Marketing;Pós-graduação;6443.51;;313.04
+157;Funcionário 157;Não Informado;Financeiro;Assistente;Administração;Graduação;6156.26;190.0;37.36
+158;Funcionário 158;Feminino;Financeiro;Assistente;Contabilidade;Graduação;5364.75;171.3;436.77
+159;Funcionário 159;Feminino;;Analista;;Tecnólogo;5585.55;124.0;
+160;Funcionário 160;Masculino;RH;Analista;Recursos Humanos;Tecnólogo;;137.9;419.14
+161;Funcionário 161;Masculino;Financeiro;Assistente;Economia;Graduação;4233.61;168.1;487.37
+162;Funcionário 162;Não Informado;Operações;Assistente;Logística;Pós-graduação;6162.09;147.4;335.75
+163;Funcionário 163;Feminino;RH;Gerente;Administração;Tecnólogo;2287.78;150.3;317.27
+164;Funcionário 164;Não Informado;Marketing;Analista;Marketing;Graduação;5617.0;178.0;863.57
+165;Funcionário 165;Não Informado;RH;Analista;Psicologia;Pós-graduação;;170.2;433.19
+166;Funcionário 166;Feminino;Financeiro;Assistente;Economia;Pós-graduação;5003.86;186.3;681.53
+167;Funcionário 167;Não Informado;Financeiro;;Economia;Graduação;6560.13;151.4;332.65
+168;Funcionário 168;Feminino;Operações;Analista;Administração;Pós-graduação;5246.97;187.5;822.55
+169;Funcionário 169;Masculino;Marketing;Assistente;Comunicação Social;Graduação;6327.78;148.9;802.84
+170;Funcionário 170;Feminino;Marketing;Gerente;Marketing;Tecnólogo;7210.65;190.0;546.2
+171;Funcionário 171;Masculino;RH;Analista;Psicologia;Tecnólogo;5583.64;162.1;280.09
+172;Funcionário 172;Masculino;Financeiro;Analista;Economia;Pós-graduação;6756.56;142.8;517.4
+173;Funcionário 173;Masculino;Financeiro;Coordenador;Contabilidade;Pós-graduação;4510.16;127.4;509.46
+174;Funcionário 174;Não Informado;RH;Coordenador;Recursos Humanos;Graduação;4987.69;154.0;547.92
+175;Funcionário 175;Não Informado;TI;Analista;Engenharia da Computação;Pós-graduação;63241.05;1549.0;1521.8
+176;Funcionário 176;Masculino;Financeiro;Assistente;Economia;Graduação;6564.47;177.2;195.4
+177;Funcionário 177;Não Informado;Marketing;Gerente;Comunicação Social;Pós-graduação;;157.8;532.47
+178;Funcionário 178;Não Informado;RH;Assistente;Psicologia;Ensino Médio;;151.4;497.94
+179;Funcionário 179;Feminino;;Analista;;Ensino Médio;5232.0;181.5;
+180;Funcionário 180;Feminino;Operações;Analista;Administração;Pós-graduação;6562.35;155.5;705.36
+181;Funcionário 181;Masculino;Financeiro;Assistente;Administração;Graduação;;;204.97
+182;Funcionário 182;Feminino;Financeiro;Analista;Contabilidade;Ensino Médio;3576.6;171.5;702.14
+183;Funcionário 183;Masculino;Marketing;Analista;Publicidade e Propaganda;Graduação;5197.87;150.2;351.35
+184;Funcionário 184;Não Informado;TI;Analista;Ciência da Computação;Tecnólogo;2029.15;173.2;420.96
+185;Funcionário 185;Não Informado;;Assistente;;Pós-graduação;6153.16;148.1;334.84
+186;Funcionário 186;Masculino;TI;Gerente;Sistemas de Informação;Ensino Médio;4368.01;155.5;517.92
+187;Funcionário 187;Não Informado;Operações;Analista;Engenharia de Produção;Tecnólogo;4296.03;163.0;118.84
+188;Funcionário 188;Feminino;;Assistente;;Graduação;6313.54;152.5;386.38
+189;Funcionário 189;Feminino;Marketing;Assistente;Comunicação Social;Graduação;2952.26;159.7;396.85
+190;Funcionário 190;Masculino;Financeiro;Assistente;Economia;Tecnólogo;7920.65;176.3;752.79
+191;Funcionário 191;Feminino;Marketing;Analista;Comunicação Social;Pós-graduação;4279.64;168.2;530.14
+192;Funcionário 192;Feminino;;Assistente;;Tecnólogo;4215.12;169.6;639.1
+193;Funcionário 193;Não Informado;Operações;Analista;Engenharia de Produção;Pós-graduação;6531.84;147.3;501.19
+194;Funcionário 194;Masculino;TI;Gerente;Sistemas de Informação;Graduação;6063.04;177.1;290.22
+195;Funcionário 195;Masculino;Marketing;Assistente;Marketing;Ensino Médio;8676.84;173.4;681.44
+196;Funcionário 196;Não Informado;Operações;Analista;Administração;Graduação;;180.1;330.91
+197;Funcionário 197;Masculino;Financeiro;Assistente;Economia;Pós-graduação;4819.39;145.5;394.75
+198;Funcionário 198;Não Informado;TI;;Ciência da Computação;Tecnólogo;2781.03;;536.42
+199;Funcionário 199;Masculino;Marketing;Analista;Marketing;Graduação;4501.85;;689.11
+200;Funcionário 200;Masculino;Marketing;Coordenador;Publicidade e Propaganda;Ensino Médio;3917.85;147.8;459.72
+201;Funcionário 201;Masculino;RH;Gerente;Psicologia;Ensino Médio;4326.85;;
+202;Funcionário 202;Não Informado;Marketing;Analista;Marketing;Tecnólogo;2383.72;198.5;385.7
+203;Funcionário 203;Não Informado;Operações;Analista;Logística;Graduação;7490.91;199.0;633.12
+204;Funcionário 204;Não Informado;Marketing;Assistente;Marketing;Ensino Médio;2875.09;184.8;500.72
+205;Funcionário 205;Feminino;Marketing;Assistente;Marketing;Graduação;796.7;178.8;809.33
+206;Funcionário 206;Masculino;RH;Assistente;Psicologia;Tecnólogo;3217.36;;542.88
+207;Funcionário 207;Feminino;RH;Analista;Administração;Pós-graduação;4094.24;170.3;124.54
+208;Funcionário 208;Feminino;RH;Analista;Recursos Humanos;Pós-graduação;3275.67;152.8;717.67
+209;Funcionário 209;Masculino;Marketing;Analista;Marketing;Graduação;6647.46;138.8;483.69
+210;Funcionário 210;Não Informado;TI;Assistente;Sistemas de Informação;Pós-graduação;4793.24;149.8;389.39
+211;Funcionário 211;Masculino;TI;Coordenador;Sistemas de Informação;Ensino Médio;5038.08;;744.59
+212;Funcionário 212;Feminino;Operações;Analista;Engenharia de Produção;Tecnólogo;5915.59;149.1;
+213;Funcionário 213;Não Informado;Marketing;Gerente;Marketing;Ensino Médio;5429.02;;620.0
+214;Funcionário 214;Masculino;RH;;Recursos Humanos;Graduação;6467.85;175.8;346.32
+215;Funcionário 215;Masculino;TI;Gerente;Sistemas de Informação;Pós-graduação;3335.78;162.9;332.77
+216;Funcionário 216;Masculino;Marketing;Coordenador;Publicidade e Propaganda;Tecnólogo;4178.72;164.7;862.12
+217;Funcionário 217;Masculino;RH;Assistente;Administração;Tecnólogo;5998.95;162.2;342.59
+218;Funcionário 218;Não Informado;Operações;Analista;Engenharia de Produção;Graduação;1198.17;146.5;383.05
+219;Funcionário 219;Não Informado;TI;Analista;Engenharia da Computação;Graduação;2937.22;132.6;158.34
+220;Funcionário 220;Não Informado;TI;Analista;Ciência da Computação;Tecnólogo;5751.49;166.2;826.0
+221;Funcionário 221;Não Informado;;Coordenador;;Pós-graduação;4279.63;149.9;579.6
+222;Funcionário 222;Não Informado;RH;Assistente;Administração;Graduação;6404.16;119.8;547.56
+223;Funcionário 223;Não Informado;Financeiro;Gerente;Contabilidade;Graduação;6213.77;152.1;695.03
+224;Funcionário 224;Feminino;Operações;Analista;Administração;Ensino Médio;3202.86;138.2;234.13
+225;Funcionário 225;Feminino;Financeiro;Analista;Administração;Ensino Médio;5609.99;174.0;391.79
+226;Funcionário 226;Não Informado;Marketing;Assistente;Comunicação Social;Graduação;6802.55;170.4;481.71
+227;Funcionário 227;Não Informado;TI;Analista;Ciência da Computação;Ensino Médio;5221.15;169.9;190.31
+228;Funcionário 228;Não Informado;Financeiro;;Administração;Tecnólogo;3533.8;146.7;762.29
+229;Funcionário 229;Feminino;;Analista;;Tecnólogo;6319.08;174.6;496.31
+230;Funcionário 230;Não Informado;RH;Analista;Administração;Ensino Médio;5953.14;166.4;435.34
+231;Funcionário 231;Não Informado;RH;;Recursos Humanos;Tecnólogo;5813.92;151.8;547.25
+232;Funcionário 232;Feminino;Financeiro;Analista;Economia;Graduação;6073.91;;349.48
+233;Funcionário 233;Não Informado;Marketing;Analista;Publicidade e Propaganda;Pós-graduação;508.08;177.9;509.02
+234;Funcionário 234;Masculino;;Coordenador;;Tecnólogo;6321.41;150.5;1185.51
+235;Funcionário 235;Feminino;Marketing;Analista;Comunicação Social;Graduação;7712.2;166.1;620.94
+236;Funcionário 236;Feminino;Financeiro;Assistente;Economia;Graduação;5654.96;180.7;833.66
+237;Funcionário 237;Feminino;Operações;Assistente;Administração;Tecnólogo;5289.09;198.2;428.98
+238;Funcionário 238;Feminino;Operações;Analista;Engenharia de Produção;Graduação;6044.66;193.3;349.69
+239;Funcionário 239;Feminino;Financeiro;Assistente;Economia;Pós-graduação;5507.34;178.0;561.94
+240;Funcionário 240;Feminino;RH;Analista;Psicologia;Ensino Médio;;129.9;231.66
+241;Funcionário 241;Feminino;Marketing;Gerente;Marketing;Graduação;5002.21;146.2;38.61
+242;Funcionário 242;Feminino;Operações;Assistente;Engenharia de Produção;Graduação;3849.94;149.0;646.32
+243;Funcionário 243;Feminino;Marketing;Analista;Marketing;Graduação;3493.52;193.1;628.27
+244;Funcionário 244;Não Informado;TI;Gerente;Engenharia da Computação;Ensino Médio;3502.71;146.0;666.77
+245;Funcionário 245;Masculino;RH;Analista;Recursos Humanos;Pós-graduação;2940.44;167.7;
+246;Funcionário 246;Masculino;;Assistente;;Graduação;3398.39;162.0;895.67
+247;Funcionário 247;Masculino;TI;Assistente;Sistemas de Informação;Tecnólogo;;141.3;482.53
+248;Funcionário 248;Não Informado;RH;Gerente;Administração;Graduação;6131.14;167.6;
+249;Funcionário 249;Masculino;Operações;Assistente;Logística;Graduação;4062.46;168.0;-101.3
+250;Funcionário 250;Feminino;TI;Assistente;Ciência da Computação;Graduação;4414.41;134.9;490.57
+251;Funcionário 251;Não Informado;Operações;Analista;Administração;Ensino Médio;77532.6;1845.0;3331.9
+252;Funcionário 252;Não Informado;Operações;Analista;Administração;Pós-graduação;4016.68;118.3;501.37
+253;Funcionário 253;Feminino;;Analista;;Tecnólogo;5101.28;148.2;724.84
+254;Funcionário 254;Não Informado;Marketing;Analista;Comunicação Social;Ensino Médio;6166.41;179.4;958.98
+255;Funcionário 255;Feminino;Marketing;Assistente;Comunicação Social;Tecnólogo;4946.39;136.1;465.33
+256;Funcionário 256;Feminino;RH;Coordenador;Psicologia;Ensino Médio;5504.02;167.0;746.25
+257;Funcionário 257;Não Informado;TI;;Ciência da Computação;Pós-graduação;6329.74;134.1;182.83
+258;Funcionário 258;Não Informado;Operações;Assistente;Logística;Tecnólogo;4591.8;158.1;706.26
+259;Funcionário 259;Feminino;Marketing;Analista;Marketing;Ensino Médio;5427.19;;512.7
+260;Funcionário 260;Masculino;;Analista;;Graduação;4535.93;143.1;455.72
+261;Funcionário 261;Feminino;RH;Analista;Recursos Humanos;Graduação;4957.21;129.1;467.32
+262;Funcionário 262;Feminino;RH;Assistente;Administração;Tecnólogo;4512.9;152.0;468.74
+263;Funcionário 263;Feminino;RH;Gerente;Psicologia;Graduação;4206.7;151.7;438.24
+264;Funcionário 264;Não Informado;RH;Assistente;Administração;Graduação;;146.5;539.73
+265;Funcionário 265;Masculino;TI;;Ciência da Computação;Pós-graduação;5849.82;176.0;
+266;Funcionário 266;Não Informado;Financeiro;Assistente;Economia;Graduação;5219.46;142.3;268.84
+267;Funcionário 267;Masculino;Marketing;Assistente;Comunicação Social;Tecnólogo;5748.09;172.7;583.41
+268;Funcionário 268;Masculino;;Analista;;Graduação;3893.1;192.6;
+269;Funcionário 269;Não Informado;Operações;Coordenador;Administração;Graduação;3194.4;162.8;709.6
+270;Funcionário 270;Masculino;Marketing;Assistente;Comunicação Social;Graduação;5625.57;142.8;493.23
+271;Funcionário 271;Não Informado;RH;Assistente;Psicologia;Tecnólogo;6031.82;135.0;525.4
+272;Funcionário 272;Masculino;RH;Assistente;Psicologia;Graduação;5074.79;145.8;90.15
+273;Funcionário 273;Feminino;TI;Analista;Engenharia da Computação;Ensino Médio;;174.1;248.66
+274;Funcionário 274;Não Informado;;;;Ensino Médio;6361.55;163.1;687.92
+275;Funcionário 275;Feminino;Financeiro;;Economia;Graduação;9020.86;178.7;353.24
+276;Funcionário 276;Feminino;TI;Coordenador;Ciência da Computação;Graduação;4698.79;175.4;393.51
+277;Funcionário 277;Não Informado;Operações;Analista;Logística;Pós-graduação;3501.73;162.8;444.41
+278;Funcionário 278;Não Informado;Financeiro;Assistente;Contabilidade;Tecnólogo;3889.79;169.5;772.75
+279;Funcionário 279;Não Informado;;Analista;;Tecnólogo;4151.75;197.1;574.83
+280;Funcionário 280;Não Informado;Marketing;Analista;Comunicação Social;Tecnólogo;5714.05;188.3;762.05
+281;Funcionário 281;Não Informado;Marketing;Assistente;Marketing;Graduação;1762.9;153.9;446.45
+282;Funcionário 282;Não Informado;Financeiro;Coordenador;Economia;Graduação;6977.83;179.8;542.64
+283;Funcionário 283;Masculino;Financeiro;Analista;Economia;Pós-graduação;;171.7;259.35
+284;Funcionário 284;Não Informado;Marketing;Analista;Comunicação Social;Graduação;4629.81;;735.61
+285;Funcionário 285;Não Informado;Marketing;Assistente;Comunicação Social;Graduação;3380.99;173.4;521.73
+286;Funcionário 286;Masculino;;Assistente;;Graduação;4828.66;;508.83
+287;Funcionário 287;Feminino;Marketing;Assistente;Comunicação Social;Tecnólogo;5019.86;127.6;567.66
+288;Funcionário 288;Não Informado;;Assistente;;Tecnólogo;4817.08;171.5;789.36
+289;Funcionário 289;Feminino;TI;Assistente;Ciência da Computação;Ensino Médio;5508.59;198.1;457.1
+290;Funcionário 290;Masculino;RH;Gerente;Administração;Tecnólogo;4115.55;144.5;832.61
+291;Funcionário 291;Feminino;Financeiro;Assistente;Economia;Tecnólogo;3656.28;156.2;329.7
+292;Funcionário 292;Feminino;Operações;;Logística;Pós-graduação;5822.49;139.3;584.44
+293;Funcionário 293;Não Informado;Financeiro;;Administração;Graduação;5148.0;183.6;901.84
+294;Funcionário 294;Feminino;Marketing;Analista;Publicidade e Propaganda;Tecnólogo;5295.77;113.9;402.04
+295;Funcionário 295;Masculino;Operações;Coordenador;Logística;Ensino Médio;6588.54;114.7;549.05
+296;Funcionário 296;Feminino;Operações;Analista;Engenharia de Produção;Ensino Médio;3466.15;167.5;675.5
+297;Funcionário 297;Não Informado;RH;Gerente;Administração;Graduação;3717.14;158.4;472.42
+298;Funcionário 298;Não Informado;Financeiro;Assistente;Economia;Graduação;6885.83;150.4;199.93
+299;Funcionário 299;Feminino;TI;Analista;Engenharia da Computação;Pós-graduação;2775.67;154.0;288.81
+300;Funcionário 300;Masculino;Operações;Assistente;Administração;Ensino Médio;3035.88;170.7;616.19
+301;Funcionário 301;Não Informado;;Analista;;Graduação;6226.79;151.7;
+302;Funcionário 302;Masculino;TI;Assistente;Engenharia da Computação;Graduação;5357.3;138.1;656.91
+303;Funcionário 303;Não Informado;Operações;Coordenador;Engenharia de Produção;Tecnólogo;5157.85;141.5;
+304;Funcionário 304;Feminino;;Analista;;Tecnólogo;4862.51;177.8;514.4
+305;Funcionário 305;Masculino;TI;Analista;Engenharia da Computação;Tecnólogo;5046.9;149.5;541.65
+306;Funcionário 306;Não Informado;Marketing;Assistente;Comunicação Social;Tecnólogo;4861.83;132.3;196.23
+307;Funcionário 307;Masculino;Financeiro;Assistente;Contabilidade;Graduação;7033.16;162.0;563.47
+308;Funcionário 308;Masculino;Financeiro;Assistente;Contabilidade;Graduação;4402.78;170.1;
+309;Funcionário 309;Masculino;Financeiro;Analista;Administração;Ensino Médio;4757.94;;383.36
+310;Funcionário 310;Feminino;Marketing;Coordenador;Publicidade e Propaganda;Ensino Médio;7691.67;164.4;628.8
+311;Funcionário 311;Feminino;Operações;Assistente;Administração;Pós-graduação;;1468.0;684.1
+312;Funcionário 312;Feminino;Operações;Analista;Logística;Pós-graduação;8348.02;169.5;
+313;Funcionário 313;Masculino;TI;Analista;Sistemas de Informação;Graduação;;174.5;560.06
+314;Funcionário 314;Feminino;TI;Analista;Sistemas de Informação;Pós-graduação;;;922.12
+315;Funcionário 315;Não Informado;Operações;Gerente;Engenharia de Produção;Pós-graduação;2516.98;159.1;782.62
+316;Funcionário 316;Feminino;RH;;Psicologia;Pós-graduação;5230.47;165.2;
+317;Funcionário 317;Masculino;Marketing;Coordenador;Marketing;Graduação;2623.29;158.6;663.48
+318;Funcionário 318;Não Informado;Marketing;Analista;Comunicação Social;Graduação;6266.68;165.0;629.32
+319;Funcionário 319;Não Informado;Marketing;Assistente;Comunicação Social;Tecnólogo;3180.7;139.6;263.67
+320;Funcionário 320;Não Informado;RH;Coordenador;Psicologia;Tecnólogo;5425.65;137.0;432.98
+321;Funcionário 321;Masculino;;Analista;;Tecnólogo;4576.71;143.3;865.35
+322;Funcionário 322;Masculino;TI;Gerente;Ciência da Computação;Pós-graduação;3262.7;;208.77
+323;Funcionário 323;Masculino;Marketing;Analista;Marketing;Pós-graduação;2570.96;165.2;409.94
+324;Funcionário 324;Feminino;TI;Analista;Ciência da Computação;Graduação;4233.44;180.8;216.15
+325;Funcionário 325;Masculino;Marketing;Analista;Publicidade e Propaganda;Ensino Médio;7610.94;156.3;790.19
+326;Funcionário 326;Não Informado;Operações;Coordenador;Engenharia de Produção;Graduação;4559.77;137.1;386.84
+327;Funcionário 327;Masculino;Operações;Assistente;Engenharia de Produção;Graduação;6375.83;182.9;808.91
+328;Funcionário 328;Não Informado;TI;Gerente;Engenharia da Computação;Graduação;4914.44;159.6;417.25
+329;Funcionário 329;Masculino;RH;Assistente;Psicologia;Ensino Médio;6315.09;185.7;
+330;Funcionário 330;Não Informado;TI;Analista;Engenharia da Computação;Graduação;2259.63;172.0;755.71
+331;Funcionário 331;Não Informado;Financeiro;Analista;Economia;Graduação;4395.22;203.8;687.77
+332;Funcionário 332;Não Informado;Marketing;;Marketing;Pós-graduação;6424.11;155.6;-43.26
+333;Funcionário 333;Não Informado;Financeiro;Assistente;Administração;Graduação;;178.0;590.23
+334;Funcionário 334;Feminino;TI;Analista;Sistemas de Informação;Graduação;;177.8;620.03
+335;Funcionário 335;Feminino;Operações;Analista;Engenharia de Produção;Tecnólogo;4354.31;148.9;541.96
+336;Funcionário 336;Feminino;Marketing;Analista;Marketing;Pós-graduação;6724.07;156.6;368.47
+337;Funcionário 337;Masculino;TI;;Engenharia da Computação;Graduação;5446.27;130.8;505.68
+338;Funcionário 338;Não Informado;RH;Analista;Administração;Pós-graduação;5066.03;129.0;420.39
+339;Funcionário 339;Masculino;TI;Assistente;Ciência da Computação;Graduação;;162.5;542.26
+340;Funcionário 340;Não Informado;RH;Assistente;Administração;Ensino Médio;5882.34;175.9;459.52
+341;Funcionário 341;Não Informado;Operações;Assistente;Engenharia de Produção;Tecnólogo;5318.88;172.8;375.61
+342;Funcionário 342;Feminino;;Analista;;Graduação;7320.55;;532.75
+343;Funcionário 343;Feminino;;Analista;;Pós-graduação;4909.57;177.3;
+344;Funcionário 344;Masculino;Financeiro;Assistente;Administração;Tecnólogo;5417.12;148.2;557.8
+345;Funcionário 345;Masculino;Financeiro;Assistente;Administração;Graduação;;154.5;389.27
+346;Funcionário 346;Feminino;Financeiro;Gerente;Administração;Ensino Médio;5225.17;174.8;567.25
+347;Funcionário 347;Não Informado;Financeiro;Gerente;Economia;Graduação;7381.64;168.7;713.96
+348;Funcionário 348;Não Informado;RH;Assistente;Recursos Humanos;Ensino Médio;;155.8;819.08
+349;Funcionário 349;Masculino;Financeiro;Assistente;Economia;Graduação;3299.61;;741.51
+350;Funcionário 350;Masculino;Marketing;;Comunicação Social;Graduação;6495.14;134.2;
+351;Funcionário 351;Masculino;RH;Analista;Administração;Tecnólogo;4776.85;149.6;298.18
+352;Funcionário 352;Feminino;Operações;Assistente;Administração;Graduação;5144.01;154.3;226.89
+353;Funcionário 353;Masculino;RH;Analista;Psicologia;Pós-graduação;;176.3;459.52
+354;Funcionário 354;Não Informado;TI;Coordenador;Sistemas de Informação;Ensino Médio;5118.68;160.0;218.16
+355;Funcionário 355;Não Informado;Operações;Gerente;Logística;Tecnólogo;6275.8;134.8;343.04
+356;Funcionário 356;Feminino;Financeiro;Analista;Administração;Graduação;;;465.98
+357;Funcionário 357;Não Informado;Financeiro;Assistente;Administração;Graduação;3482.34;181.8;403.16
+358;Funcionário 358;Não Informado;TI;Analista;Engenharia da Computação;Tecnólogo;5127.45;174.8;434.42
+359;Funcionário 359;Não Informado;Financeiro;Gerente;Administração;Graduação;2590.34;172.4;234.4
+360;Funcionário 360;Masculino;Operações;Coordenador;Administração;Ensino Médio;2940.42;122.5;546.29
+361;Funcionário 361;Não Informado;Operações;Assistente;Engenharia de Produção;Ensino Médio;7800.02;142.0;699.3
+362;Funcionário 362;Não Informado;Operações;Gerente;Administração;Pós-graduação;6136.2;169.6;390.37
+363;Funcionário 363;Não Informado;RH;Coordenador;Administração;Graduação;4984.92;158.9;645.15
+364;Funcionário 364;Feminino;RH;Assistente;Administração;Graduação;6857.01;170.5;1032.55
+365;Funcionário 365;Não Informado;Operações;Analista;Administração;Ensino Médio;3439.1;134.7;481.64
+366;Funcionário 366;Masculino;RH;Assistente;Psicologia;Graduação;4526.6;158.8;630.24
+367;Funcionário 367;Não Informado;RH;Analista;Administração;Graduação;5935.18;132.2;539.35
+368;Funcionário 368;Não Informado;Marketing;Analista;Publicidade e Propaganda;Graduação;6336.01;120.9;
+369;Funcionário 369;Masculino;RH;Analista;Recursos Humanos;Pós-graduação;86540.7;1659.0;
+370;Funcionário 370;Feminino;Marketing;Assistente;Publicidade e Propaganda;Graduação;1188.14;176.9;288.61
+371;Funcionário 371;Não Informado;Marketing;Analista;Comunicação Social;Graduação;;164.9;528.69
+372;Funcionário 372;Feminino;;Analista;;Graduação;5715.6;159.3;677.39
+373;Funcionário 373;Não Informado;RH;Coordenador;Psicologia;Graduação;4466.07;;526.1
+374;Funcionário 374;Não Informado;RH;Assistente;Administração;Graduação;8810.35;180.1;167.09
+375;Funcionário 375;Feminino;Financeiro;Analista;Economia;Pós-graduação;6389.84;159.1;335.28
+376;Funcionário 376;Masculino;Marketing;Analista;Marketing;Graduação;5837.12;199.2;341.06
+377;Funcionário 377;Feminino;Financeiro;Analista;Economia;Tecnólogo;3324.58;178.8;577.8
+378;Funcionário 378;Não Informado;Operações;;Engenharia de Produção;Tecnólogo;4947.05;119.9;347.59
+379;Funcionário 379;Feminino;RH;Assistente;Recursos Humanos;Tecnólogo;5361.81;175.1;363.84
+380;Funcionário 380;Não Informado;Operações;Gerente;Engenharia de Produção;Ensino Médio;6691.68;132.1;716.95
+381;Funcionário 381;Não Informado;;Gerente;;Pós-graduação;6321.7;144.8;
+382;Funcionário 382;Feminino;;;;Graduação;6549.48;155.0;417.35
+383;Funcionário 383;Não Informado;TI;;Sistemas de Informação;Pós-graduação;3614.13;158.1;584.98
+384;Funcionário 384;Feminino;RH;Assistente;Recursos Humanos;Tecnólogo;7118.23;168.0;123.7
+385;Funcionário 385;Masculino;Operações;Assistente;Logística;Graduação;;139.5;539.67
+386;Funcionário 386;Não Informado;Operações;Assistente;Logística;Ensino Médio;4196.13;137.0;738.0
+387;Funcionário 387;Masculino;Operações;Analista;Administração;Graduação;5646.16;172.0;605.36
+388;Funcionário 388;Feminino;Financeiro;Assistente;Contabilidade;Graduação;71627.4;1597.0;2601.05
+389;Funcionário 389;Não Informado;Financeiro;Assistente;Administração;Ensino Médio;3490.94;163.5;
+390;Funcionário 390;Masculino;TI;Analista;Engenharia da Computação;Graduação;3767.68;116.1;370.64
+391;Funcionário 391;Feminino;Financeiro;Analista;Administração;Graduação;2677.62;;464.18
+392;Funcionário 392;Não Informado;Marketing;Analista;Marketing;Pós-graduação;5797.96;142.2;
+393;Funcionário 393;Feminino;Marketing;Assistente;Marketing;Graduação;6890.85;141.6;822.09
+394;Funcionário 394;Feminino;Operações;Gerente;Administração;Tecnólogo;4849.41;;612.84
+395;Funcionário 395;Não Informado;RH;Coordenador;Administração;Pós-graduação;4399.48;138.1;479.51
+396;Funcionário 396;Feminino;;Analista;;Ensino Médio;2791.52;138.1;376.04
+397;Funcionário 397;Masculino;Marketing;Assistente;Publicidade e Propaganda;Ensino Médio;6369.8;153.4;485.93
+398;Funcionário 398;Feminino;Marketing;Analista;Publicidade e Propaganda;Tecnólogo;;169.0;659.56
+399;Funcionário 399;Não Informado;Marketing;Assistente;Marketing;Tecnólogo;2303.82;142.3;702.29
+400;Funcionário 400;Feminino;Operações;Analista;Engenharia de Produção;Graduação;3404.85;184.7;319.26
+401;Funcionário 401;Não Informado;;Gerente;;Graduação;;189.0;305.29
+402;Funcionário 402;Masculino;RH;Analista;Administração;Pós-graduação;4153.52;142.4;915.65
+403;Funcionário 403;Feminino;TI;Analista;Sistemas de Informação;Graduação;5341.02;;727.32
+404;Funcionário 404;Não Informado;TI;Analista;Sistemas de Informação;Tecnólogo;7421.37;144.4;641.7
+405;Funcionário 405;Não Informado;RH;Analista;Recursos Humanos;Tecnólogo;6512.9;126.3;472.27
+406;Funcionário 406;Masculino;;Coordenador;;Graduação;5791.4;166.1;684.8
+407;Funcionário 407;Feminino;Marketing;Analista;Comunicação Social;Ensino Médio;3914.11;174.7;
+408;Funcionário 408;Masculino;Operações;;Engenharia de Produção;Graduação;;200.2;806.35
+409;Funcionário 409;Feminino;Operações;Assistente;Administração;Pós-graduação;3804.84;142.1;
+410;Funcionário 410;Não Informado;TI;;Sistemas de Informação;Pós-graduação;7322.1;;658.17
+411;Funcionário 411;Não Informado;RH;;Recursos Humanos;Graduação;4907.39;186.8;629.24
+412;Funcionário 412;Não Informado;RH;Analista;Psicologia;Pós-graduação;4329.75;164.0;473.69
+413;Funcionário 413;Não Informado;Financeiro;Assistente;Contabilidade;Graduação;;172.0;464.93
+414;Funcionário 414;Feminino;Financeiro;Gerente;Contabilidade;Tecnólogo;6236.93;;744.32
+415;Funcionário 415;Não Informado;TI;Analista;Sistemas de Informação;Graduação;3030.73;199.5;705.3
+416;Funcionário 416;Masculino;Operações;Assistente;Administração;Graduação;7122.31;169.6;
+417;Funcionário 417;Masculino;Marketing;Assistente;Publicidade e Propaganda;Tecnólogo;5234.71;;161.52
+418;Funcionário 418;Feminino;Marketing;Assistente;Marketing;Graduação;4675.48;142.7;310.76
+419;Funcionário 419;Feminino;TI;Gerente;Engenharia da Computação;Graduação;5664.27;166.1;321.29
+420;Funcionário 420;Feminino;RH;Assistente;Administração;Graduação;5327.6;180.5;276.29
+421;Funcionário 421;Masculino;Financeiro;Analista;Administração;Graduação;4483.71;;
+422;Funcionário 422;Masculino;Operações;Assistente;Administração;Graduação;4620.93;144.4;407.26
+423;Funcionário 423;Não Informado;RH;Analista;Psicologia;Tecnólogo;3696.71;161.8;741.22
+424;Funcionário 424;Masculino;Operações;Coordenador;Administração;Graduação;5984.59;157.4;
+425;Funcionário 425;Feminino;Operações;Assistente;Administração;Graduação;4202.01;165.3;494.26
+426;Funcionário 426;Masculino;TI;Assistente;Engenharia da Computação;Graduação;3565.61;126.8;836.69
+427;Funcionário 427;Masculino;Financeiro;Assistente;Administração;Pós-graduação;5248.8;171.0;504.84
+428;Funcionário 428;Masculino;Financeiro;Gerente;Contabilidade;Graduação;6993.71;171.9;413.04
+429;Funcionário 429;Feminino;Marketing;Gerente;Marketing;Graduação;4927.48;168.9;512.96
+430;Funcionário 430;Não Informado;RH;Gerente;Psicologia;Graduação;4087.85;159.9;688.97
+431;Funcionário 431;Não Informado;RH;Coordenador;Recursos Humanos;Graduação;5605.84;123.9;177.11
+432;Funcionário 432;Masculino;Financeiro;;Contabilidade;Ensino Médio;7905.07;159.6;
+433;Funcionário 433;Não Informado;Operações;Analista;Engenharia de Produção;Graduação;2822.14;181.2;559.48
+434;Funcionário 434;Feminino;Marketing;Coordenador;Marketing;Tecnólogo;5573.3;142.8;572.62
+435;Funcionário 435;Não Informado;Marketing;Analista;Publicidade e Propaganda;Pós-graduação;5307.63;120.2;426.31
+436;Funcionário 436;Masculino;Operações;Analista;Administração;Graduação;6742.3;129.2;597.76
+437;Funcionário 437;Não Informado;;Assistente;;Ensino Médio;6486.36;166.3;558.42
+438;Funcionário 438;Masculino;Operações;Gerente;Administração;Pós-graduação;;167.5;381.62
+439;Funcionário 439;Feminino;Marketing;Analista;Publicidade e Propaganda;Graduação;2473.22;177.7;936.32
+440;Funcionário 440;Não Informado;Financeiro;Gerente;Administração;Ensino Médio;6209.85;158.9;587.91
+441;Funcionário 441;Feminino;Marketing;Analista;Marketing;Ensino Médio;3747.21;130.0;433.76
+442;Funcionário 442;Feminino;Marketing;Analista;Marketing;Pós-graduação;3579.89;143.6;385.66
+443;Funcionário 443;Não Informado;RH;Gerente;Administração;Pós-graduação;6722.53;176.4;705.88
+444;Funcionário 444;Não Informado;Marketing;Gerente;Marketing;Graduação;3633.72;162.8;520.41
+445;Funcionário 445;Masculino;Operações;Analista;Engenharia de Produção;Graduação;7104.27;173.0;1009.62
+446;Funcionário 446;Feminino;Financeiro;Analista;Contabilidade;Graduação;5503.77;168.7;412.82
+447;Funcionário 447;Feminino;;Coordenador;;Tecnólogo;5478.68;;251.48
+448;Funcionário 448;Não Informado;Financeiro;;Contabilidade;Pós-graduação;5460.9;156.5;494.46
+449;Funcionário 449;Não Informado;Financeiro;Assistente;Economia;Ensino Médio;2542.36;197.1;535.01
+450;Funcionário 450;Não Informado;Marketing;Analista;Publicidade e Propaganda;Graduação;2335.42;168.3;76.31
+451;Funcionário 451;Masculino;RH;Assistente;Administração;Pós-graduação;5323.33;157.4;438.17
+452;Funcionário 452;Feminino;TI;Gerente;Sistemas de Informação;Tecnólogo;5852.01;169.1;426.32
+453;Funcionário 453;Não Informado;Marketing;Assistente;Publicidade e Propaganda;Ensino Médio;5123.92;164.5;426.25
+454;Funcionário 454;Não Informado;TI;Gerente;Sistemas de Informação;Graduação;3767.7;116.9;373.95
+455;Funcionário 455;Não Informado;;;;Pós-graduação;5028.38;173.0;231.36
+456;Funcionário 456;Feminino;Financeiro;Assistente;Contabilidade;Tecnólogo;4876.95;196.4;651.61
+457;Funcionário 457;Masculino;Marketing;Assistente;Comunicação Social;Pós-graduação;3564.26;144.4;383.23
+458;Funcionário 458;Masculino;TI;Analista;Ciência da Computação;Pós-graduação;6520.96;;295.26
+459;Funcionário 459;Masculino;Financeiro;Coordenador;Economia;Graduação;2404.59;154.9;348.01
+460;Funcionário 460;Masculino;Marketing;Assistente;Marketing;Pós-graduação;5883.11;165.9;405.54
+461;Funcionário 461;Não Informado;RH;Coordenador;Psicologia;Pós-graduação;5576.49;181.4;521.73
+462;Funcionário 462;Masculino;Operações;Analista;Logística;Ensino Médio;6514.57;145.6;633.67
+463;Funcionário 463;Não Informado;Marketing;Assistente;Publicidade e Propaganda;Graduação;3492.03;184.8;309.36
+464;Funcionário 464;Não Informado;RH;Analista;Recursos Humanos;Graduação;5152.11;135.7;404.14
+465;Funcionário 465;Feminino;TI;Analista;Engenharia da Computação;Graduação;8256.75;142.5;230.9
+466;Funcionário 466;Feminino;RH;;Recursos Humanos;Tecnólogo;5993.11;148.1;-178.46
+467;Funcionário 467;Feminino;Operações;;Logística;Tecnólogo;5150.87;173.2;531.16
+468;Funcionário 468;Não Informado;RH;;Recursos Humanos;Graduação;;153.2;
+469;Funcionário 469;Masculino;Marketing;Assistente;Publicidade e Propaganda;Ensino Médio;5129.27;129.6;604.42
+470;Funcionário 470;Não Informado;RH;;Recursos Humanos;Ensino Médio;;155.7;398.59
+471;Funcionário 471;Feminino;Marketing;Analista;Publicidade e Propaganda;Ensino Médio;6475.45;144.3;519.3
+472;Funcionário 472;Não Informado;TI;Coordenador;Engenharia da Computação;Graduação;4871.58;;265.04
+473;Funcionário 473;Feminino;Operações;Gerente;Logística;Ensino Médio;5378.5;153.1;475.54
+474;Funcionário 474;Feminino;RH;Gerente;Recursos Humanos;Pós-graduação;4413.8;161.4;
+475;Funcionário 475;Feminino;Operações;Assistente;Engenharia de Produção;Ensino Médio;6814.78;151.9;329.46
+476;Funcionário 476;Feminino;RH;Gerente;Administração;Ensino Médio;2890.84;168.7;581.13
+477;Funcionário 477;Não Informado;;Assistente;;Graduação;;156.3;
+478;Funcionário 478;Feminino;RH;Assistente;Recursos Humanos;Graduação;7188.07;166.5;833.09
+479;Funcionário 479;Masculino;TI;Assistente;Sistemas de Informação;Pós-graduação;8229.68;108.1;485.59
+480;Funcionário 480;Feminino;TI;Assistente;Ciência da Computação;Pós-graduação;5702.46;161.9;676.82
+481;Funcionário 481;Feminino;Marketing;;Publicidade e Propaganda;Ensino Médio;5169.11;168.3;
+482;Funcionário 482;Feminino;RH;Analista;Psicologia;Pós-graduação;;156.0;370.49
+483;Funcionário 483;Masculino;TI;Assistente;Ciência da Computação;Tecnólogo;4029.42;173.4;628.78
+484;Funcionário 484;Não Informado;TI;Assistente;Ciência da Computação;Graduação;5256.87;174.8;211.8
+485;Funcionário 485;Feminino;Operações;Coordenador;Logística;Tecnólogo;5058.36;186.1;338.94
+486;Funcionário 486;Não Informado;TI;Assistente;Sistemas de Informação;Pós-graduação;5939.85;162.1;547.75
+487;Funcionário 487;Masculino;TI;Assistente;Engenharia da Computação;Graduação;2663.0;121.7;417.04
+488;Funcionário 488;Não Informado;Marketing;Analista;Marketing;Pós-graduação;4239.45;114.3;851.3
+489;Funcionário 489;Feminino;Financeiro;Assistente;Economia;Ensino Médio;;128.0;629.61
+490;Funcionário 490;Masculino;Operações;Analista;Logística;Graduação;3986.61;159.2;
+491;Funcionário 491;Feminino;TI;Assistente;Sistemas de Informação;Tecnólogo;3509.96;156.9;405.88
+492;Funcionário 492;Não Informado;Financeiro;Assistente;Economia;Pós-graduação;8063.11;165.5;
+493;Funcionário 493;Masculino;Financeiro;;Administração;Graduação;5057.18;147.5;288.89
+494;Funcionário 494;Não Informado;TI;Analista;Sistemas de Informação;Ensino Médio;4131.62;145.3;619.12
+495;Funcionário 495;Feminino;Marketing;Assistente;Publicidade e Propaganda;Ensino Médio;2461.44;171.1;224.94
+496;Funcionário 496;Masculino;;Analista;;Ensino Médio;6094.02;173.1;624.6
+497;Funcionário 497;Feminino;Marketing;Gerente;Comunicação Social;Ensino Médio;6048.7;154.9;467.08
+498;Funcionário 498;Não Informado;TI;Assistente;Engenharia da Computação;Pós-graduação;4551.86;;582.92
+499;Funcionário 499;Não Informado;;Assistente;;Pós-graduação;3346.65;168.1;297.48
+500;Funcionário 500;Não Informado;RH;;Recursos Humanos;Graduação;4963.18;170.1;
+501;Funcionário 501;Masculino;RH;Analista;Recursos Humanos;Graduação;3746.22;137.1;982.47
+502;Funcionário 502;Não Informado;;Gerente;;Ensino Médio;3586.86;145.6;408.56
+503;Funcionário 503;Feminino;TI;Assistente;Sistemas de Informação;Tecnólogo;4845.18;;563.48
+504;Funcionário 504;Não Informado;Operações;Assistente;Logística;Pós-graduação;3422.91;149.9;801.11
+505;Funcionário 505;Não Informado;Marketing;Analista;Marketing;Graduação;5369.97;176.2;
+506;Funcionário 506;Masculino;;Analista;;Pós-graduação;5911.99;170.9;586.38
+507;Funcionário 507;Feminino;TI;Assistente;Ciência da Computação;Ensino Médio;3740.55;138.0;297.26
+508;Funcionário 508;Masculino;Operações;Coordenador;Administração;Ensino Médio;2947.63;170.2;244.48
+509;Funcionário 509;Masculino;TI;Analista;Sistemas de Informação;Ensino Médio;7341.92;161.7;510.69
+510;Funcionário 510;Masculino;RH;Analista;Recursos Humanos;Tecnólogo;;150.1;407.35
+511;Funcionário 511;Não Informado;;;;Graduação;4010.09;131.9;496.19
+512;Funcionário 512;Não Informado;Financeiro;Analista;Administração;Graduação;5319.53;156.5;541.13
+513;Funcionário 513;Não Informado;RH;Assistente;Administração;Ensino Médio;88485.75;1736.0;1823.55
+514;Funcionário 514;Masculino;Financeiro;Analista;Economia;Pós-graduação;4615.52;116.7;598.82
+515;Funcionário 515;Feminino;TI;;Sistemas de Informação;Tecnólogo;5691.19;;871.71
+516;Funcionário 516;Não Informado;Financeiro;Coordenador;Economia;Graduação;4398.52;205.1;298.13
+517;Funcionário 517;Feminino;Marketing;Analista;Comunicação Social;Tecnólogo;3543.24;173.5;406.09
+518;Funcionário 518;Masculino;TI;Gerente;Engenharia da Computação;Graduação;7139.48;165.2;490.08
+519;Funcionário 519;Não Informado;Financeiro;Gerente;Administração;Ensino Médio;8732.66;145.3;728.09
+520;Funcionário 520;Masculino;TI;;Sistemas de Informação;Pós-graduação;7543.95;146.4;262.72
+521;Funcionário 521;Não Informado;Marketing;Analista;Marketing;Ensino Médio;5212.71;158.3;286.97
+522;Funcionário 522;Masculino;Financeiro;Assistente;Contabilidade;Graduação;7750.15;192.1;67.27
+523;Funcionário 523;Feminino;Financeiro;Analista;Contabilidade;Graduação;5533.56;169.3;411.93
+524;Funcionário 524;Feminino;RH;Assistente;Psicologia;Graduação;4284.07;142.6;636.03
+525;Funcionário 525;Não Informado;Financeiro;Assistente;Administração;Graduação;5699.57;183.5;713.04
+526;Funcionário 526;Feminino;Financeiro;;Administração;Graduação;4858.41;154.1;571.43
+527;Funcionário 527;Feminino;TI;Analista;Ciência da Computação;Graduação;3525.32;;379.81
+528;Funcionário 528;Não Informado;Marketing;Assistente;Comunicação Social;Graduação;3652.52;148.7;641.29
+529;Funcionário 529;Masculino;;;;Graduação;6203.08;;540.86
+530;Funcionário 530;Não Informado;Marketing;Assistente;Comunicação Social;Graduação;;163.5;115.86
+531;Funcionário 531;Feminino;Marketing;;Publicidade e Propaganda;Pós-graduação;5906.21;179.6;254.38
+532;Funcionário 532;Feminino;Financeiro;Assistente;Administração;Tecnólogo;2555.62;180.7;802.37
+533;Funcionário 533;Masculino;Operações;Analista;Administração;Graduação;1818.24;163.2;564.44
+534;Funcionário 534;Feminino;;Assistente;;Graduação;2241.73;140.2;
+535;Funcionário 535;Não Informado;Marketing;Analista;Publicidade e Propaganda;Pós-graduação;7950.15;149.9;663.99
+536;Funcionário 536;Não Informado;TI;Assistente;Ciência da Computação;Graduação;;119.6;712.29
+537;Funcionário 537;Feminino;Operações;;Logística;Tecnólogo;5129.87;141.7;412.99
+538;Funcionário 538;Não Informado;Operações;Analista;Logística;Pós-graduação;7128.88;156.4;631.54
+539;Funcionário 539;Masculino;Marketing;Analista;Comunicação Social;Pós-graduação;6401.27;167.8;-248.02
+540;Funcionário 540;Não Informado;RH;Assistente;Psicologia;Tecnólogo;;153.2;694.72
+541;Funcionário 541;Masculino;Operações;Assistente;Engenharia de Produção;Graduação;6303.51;158.9;735.03
+542;Funcionário 542;Feminino;Marketing;Assistente;Marketing;Tecnólogo;5276.27;152.1;275.06
+543;Funcionário 543;Não Informado;RH;Coordenador;Psicologia;Tecnólogo;4487.48;;556.42
+544;Funcionário 544;Não Informado;Marketing;Assistente;Comunicação Social;Graduação;5036.44;;432.38
+545;Funcionário 545;Masculino;Marketing;Assistente;Comunicação Social;Graduação;6919.72;176.8;479.49
+546;Funcionário 546;Masculino;TI;Analista;Ciência da Computação;Ensino Médio;3671.05;199.2;415.02
+547;Funcionário 547;Masculino;Financeiro;Assistente;Economia;Pós-graduação;5601.33;169.5;233.54
+548;Funcionário 548;Não Informado;RH;;Psicologia;Pós-graduação;4985.51;149.5;
+549;Funcionário 549;Feminino;Financeiro;Gerente;Contabilidade;Graduação;2304.25;149.3;437.94
+550;Funcionário 550;Feminino;RH;Assistente;Psicologia;Ensino Médio;;184.2;520.95
+551;Funcionário 551;Masculino;RH;Assistente;Administração;Tecnólogo;5289.82;137.5;298.12
+552;Funcionário 552;Não Informado;Operações;Analista;Logística;Tecnólogo;6946.01;140.9;292.63
+553;Funcionário 553;Masculino;TI;Assistente;Sistemas de Informação;Graduação;6502.0;136.7;582.52
+554;Funcionário 554;Masculino;TI;Assistente;Engenharia da Computação;Pós-graduação;;134.4;605.28
+555;Funcionário 555;Feminino;Marketing;Assistente;Publicidade e Propaganda;Tecnólogo;3777.09;139.1;675.58
+556;Funcionário 556;Feminino;Financeiro;Assistente;Economia;Ensino Médio;7701.82;175.8;720.75
+557;Funcionário 557;Masculino;Marketing;Assistente;Comunicação Social;Pós-graduação;5322.86;182.0;457.96
+558;Funcionário 558;Não Informado;TI;Coordenador;Engenharia da Computação;Graduação;3490.45;146.1;411.16
+559;Funcionário 559;Masculino;Marketing;;Comunicação Social;Ensino Médio;4725.64;164.1;649.36
+560;Funcionário 560;Não Informado;TI;Assistente;Ciência da Computação;Tecnólogo;6344.37;175.2;372.51
+561;Funcionário 561;Não Informado;TI;Assistente;Ciência da Computação;Pós-graduação;5011.43;162.0;674.35
+562;Funcionário 562;Masculino;RH;Analista;Administração;Tecnólogo;6330.3;140.9;574.9
+563;Funcionário 563;Masculino;Marketing;Gerente;Marketing;Graduação;;;731.01
+564;Funcionário 564;Masculino;RH;Gerente;Psicologia;Tecnólogo;5600.8;180.2;634.08
+565;Funcionário 565;Não Informado;Marketing;Assistente;Publicidade e Propaganda;Graduação;3713.45;169.9;
+566;Funcionário 566;Masculino;TI;Assistente;Sistemas de Informação;Tecnólogo;5203.18;171.5;326.87
+567;Funcionário 567;Não Informado;TI;Assistente;Sistemas de Informação;Graduação;5067.75;137.8;646.5
+568;Funcionário 568;Não Informado;Operações;Analista;Engenharia de Produção;Ensino Médio;7789.02;;881.41
+569;Funcionário 569;Não Informado;RH;Coordenador;Psicologia;Tecnólogo;2560.52;;235.44
+570;Funcionário 570;Não Informado;Financeiro;Analista;Economia;Ensino Médio;4797.77;166.3;504.64
+571;Funcionário 571;Feminino;Marketing;Analista;Marketing;Graduação;4123.86;145.1;556.33
+572;Funcionário 572;Não Informado;Financeiro;;Contabilidade;Ensino Médio;5502.66;180.2;194.84
+573;Funcionário 573;Masculino;Operações;Analista;Administração;Graduação;1343.65;129.4;595.62
+574;Funcionário 574;Masculino;TI;Analista;Engenharia da Computação;Tecnólogo;6672.39;178.6;481.38
+575;Funcionário 575;Masculino;RH;Coordenador;Administração;Pós-graduação;5020.62;181.6;80.69
+576;Funcionário 576;Não Informado;Financeiro;Analista;Contabilidade;Tecnólogo;2232.95;191.4;824.35
+577;Funcionário 577;Masculino;RH;Analista;Psicologia;Graduação;4458.33;;327.36
+578;Funcionário 578;Não Informado;TI;Coordenador;Sistemas de Informação;Tecnólogo;5913.44;140.0;243.5
+579;Funcionário 579;Masculino;RH;Coordenador;Administração;Pós-graduação;;175.9;584.03
+580;Funcionário 580;Não Informado;RH;Assistente;Recursos Humanos;Tecnólogo;5004.83;146.0;611.5
+581;Funcionário 581;Feminino;Marketing;Assistente;Marketing;Pós-graduação;3413.79;160.9;647.28
+582;Funcionário 582;Feminino;Financeiro;Analista;Administração;Tecnólogo;4166.02;;422.8
+583;Funcionário 583;Feminino;Operações;;Administração;Graduação;5040.11;142.0;497.82
+584;Funcionário 584;Não Informado;RH;Coordenador;Psicologia;Graduação;5275.18;166.4;353.84
+585;Funcionário 585;Feminino;RH;;Psicologia;Ensino Médio;4293.89;132.2;237.96
+586;Funcionário 586;Feminino;Operações;Coordenador;Administração;Graduação;5409.19;171.8;715.83
+587;Funcionário 587;Feminino;Financeiro;Analista;Administração;Tecnólogo;6226.97;140.7;479.45
+588;Funcionário 588;Masculino;TI;Analista;Ciência da Computação;Graduação;4581.63;125.4;463.54
+589;Funcionário 589;Não Informado;Marketing;Analista;Marketing;Pós-graduação;7147.35;159.0;100.15
+590;Funcionário 590;Não Informado;;Analista;;Pós-graduação;7193.32;168.6;464.33
+591;Funcionário 591;Masculino;RH;Gerente;Administração;Ensino Médio;4356.95;171.5;331.5
+592;Funcionário 592;Não Informado;;Assistente;;Tecnólogo;;176.4;
+593;Funcionário 593;Masculino;Marketing;Coordenador;Marketing;Graduação;2503.74;112.9;456.15
+594;Funcionário 594;Não Informado;Operações;Assistente;Logística;Pós-graduação;4810.15;139.9;410.71
+595;Funcionário 595;Não Informado;;Assistente;;Pós-graduação;4454.84;162.1;687.77
+596;Funcionário 596;Masculino;Financeiro;Analista;Contabilidade;Pós-graduação;6168.58;190.4;589.41
+597;Funcionário 597;Não Informado;Operações;Assistente;Engenharia de Produção;Graduação;2735.51;;725.43
+598;Funcionário 598;Não Informado;RH;Coordenador;Psicologia;Graduação;4583.91;198.0;235.03
+599;Funcionário 599;Masculino;TI;;Engenharia da Computação;Graduação;6453.12;149.5;370.21
+600;Funcionário 600;Não Informado;Operações;Analista;Engenharia de Produção;Ensino Médio;;165.5;491.94
+601;Funcionário 601;Feminino;;Gerente;;Ensino Médio;3856.46;;418.67
+602;Funcionário 602;Masculino;Financeiro;Analista;Economia;Ensino Médio;2829.59;151.9;
+603;Funcionário 603;Feminino;Operações;Assistente;Logística;Tecnólogo;;145.3;263.58
+604;Funcionário 604;Não Informado;Operações;;Administração;Ensino Médio;3878.79;147.3;356.76
+605;Funcionário 605;Feminino;Financeiro;Assistente;Administração;Graduação;3049.48;152.1;171.69
+606;Funcionário 606;Feminino;TI;;Engenharia da Computação;Tecnólogo;3794.22;160.1;321.99
+607;Funcionário 607;Não Informado;Marketing;Analista;Publicidade e Propaganda;Tecnólogo;3838.56;160.4;638.84
+608;Funcionário 608;Não Informado;RH;Assistente;Recursos Humanos;Ensino Médio;4595.92;170.9;457.16
+609;Funcionário 609;Masculino;TI;Coordenador;Engenharia da Computação;Tecnólogo;6238.06;162.8;801.15
+610;Funcionário 610;Não Informado;RH;Analista;Recursos Humanos;Graduação;;153.1;380.89
+611;Funcionário 611;Feminino;Marketing;Analista;Comunicação Social;Graduação;3615.77;149.5;523.81
+612;Funcionário 612;Não Informado;TI;Coordenador;Ciência da Computação;Graduação;2822.99;153.9;257.35
+613;Funcionário 613;Não Informado;Operações;Analista;Administração;Graduação;5032.79;151.0;1020.13
+614;Funcionário 614;Feminino;;Coordenador;;Graduação;5063.81;169.8;464.28
+615;Funcionário 615;Masculino;RH;;Recursos Humanos;Ensino Médio;7296.4;177.3;665.93
+616;Funcionário 616;Masculino;Operações;Assistente;Engenharia de Produção;Ensino Médio;5138.67;185.5;582.68
+617;Funcionário 617;Feminino;Financeiro;Assistente;Economia;Pós-graduação;;144.0;383.22
+618;Funcionário 618;Masculino;TI;Assistente;Engenharia da Computação;Pós-graduação;3424.02;169.4;233.82
+619;Funcionário 619;Feminino;TI;Analista;Sistemas de Informação;Graduação;4541.07;132.1;531.23
+620;Funcionário 620;Masculino;Operações;Analista;Logística;Tecnólogo;4342.29;167.5;388.64
+621;Funcionário 621;Não Informado;;;;Graduação;4444.75;181.7;468.9
+622;Funcionário 622;Não Informado;;Assistente;;Ensino Médio;3561.12;157.0;630.26
+623;Funcionário 623;Feminino;Financeiro;Analista;Administração;Tecnólogo;5807.49;181.5;515.65
+624;Funcionário 624;Não Informado;TI;Assistente;Engenharia da Computação;Tecnólogo;4786.33;137.2;575.42
+625;Funcionário 625;Masculino;RH;Assistente;Administração;Ensino Médio;70492.05;1422.0;2650.05
+626;Funcionário 626;Masculino;;Coordenador;;Tecnólogo;2428.93;157.3;206.55
+627;Funcionário 627;Masculino;Operações;Assistente;Administração;Graduação;5740.47;180.4;779.21
+628;Funcionário 628;Masculino;Operações;Assistente;Administração;Pós-graduação;5730.52;151.7;735.17
+629;Funcionário 629;Não Informado;RH;Assistente;Administração;Pós-graduação;3741.31;150.9;272.77
+630;Funcionário 630;Masculino;;;;Tecnólogo;6485.18;140.2;601.06
+631;Funcionário 631;Masculino;Operações;Assistente;Logística;Tecnólogo;2952.86;164.1;367.6
+632;Funcionário 632;Masculino;Operações;Analista;Administração;Tecnólogo;4967.2;184.9;350.62
+633;Funcionário 633;Não Informado;TI;Assistente;Ciência da Computação;Pós-graduação;4593.19;174.0;499.03
+634;Funcionário 634;Masculino;Operações;Analista;Administração;Graduação;3024.24;173.9;849.53
+635;Funcionário 635;Masculino;RH;;Administração;Graduação;5284.55;155.9;711.59
+636;Funcionário 636;Não Informado;TI;Analista;Sistemas de Informação;Graduação;7553.86;148.7;621.04
+637;Funcionário 637;Masculino;Operações;Analista;Engenharia de Produção;Pós-graduação;5101.45;;269.88
+638;Funcionário 638;Não Informado;Financeiro;Coordenador;Administração;Pós-graduação;;159.4;1010.89
+639;Funcionário 639;Masculino;;Assistente;;Graduação;5670.54;156.5;674.75
+640;Funcionário 640;Feminino;Financeiro;Analista;Economia;Graduação;5158.58;178.0;30.23
+641;Funcionário 641;Masculino;TI;Assistente;Engenharia da Computação;Graduação;5041.64;156.0;579.89
+642;Funcionário 642;Masculino;RH;Assistente;Psicologia;Ensino Médio;4361.69;143.2;402.26
+643;Funcionário 643;Masculino;TI;Analista;Ciência da Computação;Graduação;7132.96;178.2;582.0
+644;Funcionário 644;Masculino;Marketing;;Comunicação Social;Ensino Médio;5684.55;161.6;580.13
+645;Funcionário 645;Feminino;RH;Assistente;Recursos Humanos;Pós-graduação;4206.99;139.3;
+646;Funcionário 646;Feminino;TI;Analista;Sistemas de Informação;Graduação;;137.7;865.18
+647;Funcionário 647;Não Informado;Financeiro;Gerente;Contabilidade;Pós-graduação;3888.7;;539.96
+648;Funcionário 648;Não Informado;TI;Analista;Sistemas de Informação;Graduação;61313.4;2067.0;3441.35
+649;Funcionário 649;Não Informado;Operações;Assistente;Administração;Ensino Médio;4038.91;152.1;770.28
+650;Funcionário 650;Feminino;Operações;Coordenador;Administração;Pós-graduação;3298.53;153.3;352.37
+651;Funcionário 651;Feminino;Financeiro;Analista;Contabilidade;Graduação;6165.92;190.5;317.65
+652;Funcionário 652;Não Informado;TI;Assistente;Ciência da Computação;Pós-graduação;4563.44;158.9;724.38
+653;Funcionário 653;Não Informado;RH;Gerente;Administração;Ensino Médio;5831.19;131.0;778.57
+654;Funcionário 654;Feminino;Financeiro;Assistente;Contabilidade;Graduação;;128.5;224.6
+655;Funcionário 655;Masculino;TI;Assistente;Engenharia da Computação;Pós-graduação;4909.46;184.5;902.25
+656;Funcionário 656;Não Informado;Marketing;Analista;Publicidade e Propaganda;Graduação;3933.44;173.3;452.9
+657;Funcionário 657;Não Informado;Operações;Gerente;Administração;Tecnólogo;6079.5;176.5;638.36
+658;Funcionário 658;Não Informado;Financeiro;Assistente;Economia;Ensino Médio;4627.37;158.8;612.88
+659;Funcionário 659;Masculino;TI;Assistente;Ciência da Computação;Graduação;3903.69;145.5;305.73
+660;Funcionário 660;Feminino;Marketing;Assistente;Comunicação Social;Pós-graduação;2537.45;155.7;
+661;Funcionário 661;Masculino;Operações;Assistente;Engenharia de Produção;Graduação;5413.5;162.7;83.28
+662;Funcionário 662;Masculino;;Gerente;;Pós-graduação;3937.42;143.2;269.77
+663;Funcionário 663;Masculino;Financeiro;Gerente;Economia;Tecnólogo;4976.33;171.2;
+664;Funcionário 664;Feminino;TI;Assistente;Ciência da Computação;Ensino Médio;4262.4;134.8;508.04
+665;Funcionário 665;Feminino;Marketing;Analista;Comunicação Social;Graduação;6431.28;153.3;773.88
+666;Funcionário 666;Masculino;Marketing;Assistente;Marketing;Pós-graduação;5816.22;155.9;
+667;Funcionário 667;Masculino;Marketing;Assistente;Publicidade e Propaganda;Pós-graduação;5670.82;146.2;567.77
+668;Funcionário 668;Feminino;RH;Assistente;Recursos Humanos;Pós-graduação;;115.9;
+669;Funcionário 669;Não Informado;Marketing;Analista;Comunicação Social;Ensino Médio;5699.44;169.0;635.94
+670;Funcionário 670;Feminino;TI;Assistente;Ciência da Computação;Graduação;7572.25;144.9;422.83
+671;Funcionário 671;Masculino;TI;Assistente;Sistemas de Informação;Pós-graduação;3751.72;186.5;207.33
+672;Funcionário 672;Feminino;TI;Analista;Sistemas de Informação;Graduação;5258.51;;414.04
+673;Funcionário 673;Masculino;Operações;Assistente;Logística;Pós-graduação;2526.17;149.2;512.59
+674;Funcionário 674;Feminino;Marketing;Assistente;Comunicação Social;Graduação;;161.8;325.67
+675;Funcionário 675;Não Informado;Financeiro;Assistente;Contabilidade;Pós-graduação;4403.13;181.1;572.39
+676;Funcionário 676;Não Informado;Operações;Analista;Engenharia de Produção;Graduação;6173.87;148.7;441.46
+677;Funcionário 677;Feminino;RH;Assistente;Psicologia;Ensino Médio;2415.16;180.3;624.36
+678;Funcionário 678;Masculino;TI;Analista;Sistemas de Informação;Pós-graduação;7696.31;188.8;339.35
+679;Funcionário 679;Não Informado;RH;Gerente;Recursos Humanos;Tecnólogo;4464.69;179.8;315.61
+680;Funcionário 680;Masculino;Operações;Coordenador;Engenharia de Produção;Graduação;5818.49;192.5;854.81
+681;Funcionário 681;Não Informado;;Gerente;;Graduação;5226.23;185.9;505.75
+682;Funcionário 682;Feminino;Operações;;Logística;Ensino Médio;4616.79;190.3;
+683;Funcionário 683;Feminino;RH;Gerente;Psicologia;Ensino Médio;;192.1;280.32
+684;Funcionário 684;Não Informado;TI;Assistente;Engenharia da Computação;Graduação;2527.93;164.2;424.55
+685;Funcionário 685;Feminino;Marketing;Coordenador;Publicidade e Propaganda;Graduação;5448.07;151.4;636.43
+686;Funcionário 686;Feminino;TI;Coordenador;Sistemas de Informação;Tecnólogo;6365.97;114.8;813.12
+687;Funcionário 687;Feminino;;Assistente;;Graduação;4955.22;133.5;355.1
+688;Funcionário 688;Não Informado;TI;;Engenharia da Computação;Graduação;4822.74;151.0;339.42
+689;Funcionário 689;Masculino;Marketing;Coordenador;Marketing;Graduação;;152.4;495.47
+690;Funcionário 690;Masculino;TI;Assistente;Engenharia da Computação;Pós-graduação;3158.55;156.9;195.12
+691;Funcionário 691;Feminino;Operações;;Engenharia de Produção;Tecnólogo;5057.19;140.0;493.97
+692;Funcionário 692;Masculino;RH;;Administração;Graduação;5769.08;128.1;487.05
+693;Funcionário 693;Masculino;;;;Graduação;;157.4;
+694;Funcionário 694;Masculino;;Gerente;;Graduação;4591.59;156.2;782.92
+695;Funcionário 695;Não Informado;Operações;Assistente;Engenharia de Produção;Graduação;4265.41;143.8;613.97
+696;Funcionário 696;Masculino;;Assistente;;Graduação;4581.05;145.2;648.31
+697;Funcionário 697;Masculino;RH;Analista;Psicologia;Ensino Médio;6886.62;141.2;510.46
+698;Funcionário 698;Masculino;Marketing;Analista;Publicidade e Propaganda;Graduação;1870.05;152.1;428.05
+699;Funcionário 699;Feminino;Operações;Coordenador;Logística;Pós-graduação;5060.11;142.9;100.8
+700;Funcionário 700;Feminino;Operações;Analista;Logística;Graduação;4508.37;185.2;322.76
+701;Funcionário 701;Feminino;Financeiro;Gerente;Administração;Tecnólogo;7183.71;164.8;543.45
+702;Funcionário 702;Feminino;TI;Assistente;Sistemas de Informação;Ensino Médio;5083.24;140.6;170.88
+703;Funcionário 703;Não Informado;RH;Assistente;Recursos Humanos;Graduação;7227.39;154.4;548.58
+704;Funcionário 704;Feminino;Operações;Analista;Administração;Ensino Médio;1814.16;136.4;
+705;Funcionário 705;Feminino;Operações;;Engenharia de Produção;Tecnólogo;5689.38;180.2;295.69
+706;Funcionário 706;Não Informado;RH;Gerente;Administração;Tecnólogo;5420.09;187.7;406.0
+707;Funcionário 707;Não Informado;Operações;Gerente;Engenharia de Produção;Graduação;7085.8;185.0;645.76
+708;Funcionário 708;Não Informado;Financeiro;;Administração;Graduação;2537.98;137.1;677.1
+709;Funcionário 709;Masculino;Financeiro;Assistente;Economia;Tecnólogo;4767.45;158.2;112.6
+710;Funcionário 710;Não Informado;TI;Coordenador;Sistemas de Informação;Graduação;5099.09;152.0;470.1
+711;Funcionário 711;Masculino;Marketing;Analista;Publicidade e Propaganda;Ensino Médio;4256.31;171.2;682.78
+712;Funcionário 712;Não Informado;RH;Assistente;Administração;Graduação;6824.87;139.8;448.42
+713;Funcionário 713;Feminino;Financeiro;Coordenador;Administração;Tecnólogo;;;521.76
+714;Funcionário 714;Não Informado;Financeiro;Assistente;Contabilidade;Pós-graduação;8052.14;151.7;200.92
+715;Funcionário 715;Não Informado;Financeiro;Analista;Economia;Graduação;6581.27;163.1;403.99
+716;Funcionário 716;Não Informado;Financeiro;Assistente;Administração;Graduação;6426.25;;865.76
+717;Funcionário 717;Masculino;TI;Assistente;Ciência da Computação;Graduação;5838.95;153.4;342.39
+718;Funcionário 718;Feminino;Operações;Analista;Engenharia de Produção;Graduação;3404.46;173.3;
+719;Funcionário 719;Não Informado;Financeiro;Analista;Contabilidade;Graduação;4353.36;176.4;529.89
+720;Funcionário 720;Masculino;TI;Assistente;Sistemas de Informação;Graduação;5859.13;155.7;
+721;Funcionário 721;Feminino;Marketing;Analista;Comunicação Social;Graduação;6016.34;135.1;738.76
+722;Funcionário 722;Não Informado;Operações;Analista;Engenharia de Produção;Ensino Médio;6960.78;;
+723;Funcionário 723;Não Informado;Marketing;Analista;Marketing;Graduação;4298.84;;544.5
+724;Funcionário 724;Masculino;Operações;Coordenador;Logística;Tecnólogo;3709.77;150.5;608.87
+725;Funcionário 725;Masculino;Operações;Gerente;Engenharia de Produção;Pós-graduação;6288.66;125.7;629.84
+726;Funcionário 726;Não Informado;Operações;Assistente;Logística;Tecnólogo;3785.56;;390.56
+727;Funcionário 727;Feminino;TI;Analista;Engenharia da Computação;Ensino Médio;6309.97;162.6;842.54
+728;Funcionário 728;Masculino;RH;Gerente;Psicologia;Pós-graduação;6799.6;131.9;362.54
+729;Funcionário 729;Feminino;;Assistente;;Pós-graduação;85263.45;1836.0;3207.85
+730;Funcionário 730;Masculino;Operações;Assistente;Engenharia de Produção;Graduação;4463.63;176.7;495.62
+731;Funcionário 731;Não Informado;Operações;Assistente;Engenharia de Produção;Tecnólogo;5061.62;162.8;382.56
+732;Funcionário 732;Não Informado;Financeiro;Assistente;Economia;Graduação;5890.2;134.5;371.43
+733;Funcionário 733;Não Informado;Financeiro;Assistente;Economia;Ensino Médio;5015.28;132.0;382.73
+734;Funcionário 734;Masculino;TI;;Sistemas de Informação;Ensino Médio;8297.44;;
+735;Funcionário 735;Feminino;Operações;Analista;Engenharia de Produção;Graduação;3513.99;125.7;296.22
+736;Funcionário 736;Feminino;Marketing;Gerente;Comunicação Social;Ensino Médio;3496.0;168.1;639.48
+737;Funcionário 737;Masculino;Marketing;Gerente;Marketing;Tecnólogo;3534.66;131.8;
+738;Funcionário 738;Masculino;Financeiro;;Economia;Pós-graduação;4115.63;;377.0
+739;Funcionário 739;Feminino;Financeiro;Coordenador;Economia;Ensino Médio;1731.6;;597.74
+740;Funcionário 740;Masculino;RH;Assistente;Recursos Humanos;Ensino Médio;4055.52;174.2;478.41
+741;Funcionário 741;Masculino;Operações;Analista;Logística;Graduação;4020.07;141.2;215.62
+742;Funcionário 742;Masculino;Operações;;Engenharia de Produção;Graduação;5117.77;165.5;312.8
+743;Funcionário 743;Não Informado;Financeiro;Gerente;Contabilidade;Tecnólogo;5626.7;132.1;460.69
+744;Funcionário 744;Masculino;Financeiro;Gerente;Economia;Ensino Médio;3139.68;175.9;385.0
+745;Funcionário 745;Não Informado;Financeiro;Analista;Administração;Graduação;6350.08;157.7;650.1
+746;Funcionário 746;Não Informado;RH;Assistente;Psicologia;Graduação;7703.36;169.9;347.12
+747;Funcionário 747;Não Informado;RH;;Psicologia;Ensino Médio;4687.57;133.6;306.57
+748;Funcionário 748;Masculino;RH;Analista;Recursos Humanos;Pós-graduação;7361.56;170.0;297.89
+749;Funcionário 749;Masculino;Operações;;Administração;Graduação;5298.48;166.1;581.33
+750;Funcionário 750;Feminino;;Assistente;;Ensino Médio;;167.3;596.69
+751;Funcionário 751;Masculino;Operações;Assistente;Logística;Pós-graduação;;166.3;
+752;Funcionário 752;Masculino;Financeiro;Gerente;Administração;Tecnólogo;2654.14;156.1;624.42
+753;Funcionário 753;Não Informado;Operações;Assistente;Engenharia de Produção;Ensino Médio;5027.94;184.8;672.19
+754;Funcionário 754;Masculino;Marketing;Assistente;Comunicação Social;Pós-graduação;6581.49;156.9;161.8
+755;Funcionário 755;Masculino;TI;Analista;Ciência da Computação;Pós-graduação;5045.82;145.2;
+756;Funcionário 756;Masculino;Financeiro;Analista;Economia;Ensino Médio;4944.67;158.8;785.78
+757;Funcionário 757;Feminino;Marketing;Gerente;Publicidade e Propaganda;Graduação;6904.65;141.0;701.22
+758;Funcionário 758;Não Informado;TI;Assistente;Sistemas de Informação;Pós-graduação;3935.22;150.7;504.96
+759;Funcionário 759;Feminino;Marketing;Assistente;Comunicação Social;Tecnólogo;5026.27;156.5;600.25
+760;Funcionário 760;Não Informado;TI;Analista;Engenharia da Computação;Tecnólogo;5485.44;152.4;922.4
+761;Funcionário 761;Masculino;TI;Analista;Sistemas de Informação;Graduação;4499.31;;600.56
+762;Funcionário 762;Feminino;RH;Analista;Administração;Pós-graduação;4969.81;198.9;255.84
+763;Funcionário 763;Feminino;;Assistente;;Graduação;6162.53;171.4;772.99
+764;Funcionário 764;Não Informado;Marketing;Assistente;Publicidade e Propaganda;Pós-graduação;5649.26;181.4;325.81
+765;Funcionário 765;Masculino;Financeiro;Coordenador;Administração;Tecnólogo;3786.92;149.9;698.78
+766;Funcionário 766;Masculino;Operações;Analista;Administração;Graduação;3343.81;148.3;631.25
+767;Funcionário 767;Não Informado;Marketing;;Marketing;Graduação;3816.35;152.4;677.9
+768;Funcionário 768;Masculino;Marketing;Assistente;Marketing;Pós-graduação;5001.87;177.1;808.19
+769;Funcionário 769;Masculino;Financeiro;Assistente;Contabilidade;Graduação;4760.09;;206.82
+770;Funcionário 770;Masculino;;;;Tecnólogo;3752.06;139.3;486.08
+771;Funcionário 771;Feminino;;Analista;;Graduação;4102.77;162.0;889.21
+772;Funcionário 772;Masculino;Operações;Gerente;Logística;Graduação;;155.5;695.28
+773;Funcionário 773;Feminino;Operações;Analista;Engenharia de Produção;Graduação;5626.78;199.4;535.43
+774;Funcionário 774;Masculino;RH;Gerente;Recursos Humanos;Tecnólogo;;169.0;295.37
+775;Funcionário 775;Feminino;Financeiro;Assistente;Economia;Graduação;3110.32;146.8;521.34
+776;Funcionário 776;Não Informado;Financeiro;Coordenador;Contabilidade;Graduação;5042.93;128.4;317.62
+777;Funcionário 777;Feminino;Financeiro;Analista;Administração;Pós-graduação;;1532.0;1031.65
+778;Funcionário 778;Não Informado;;Assistente;;Tecnólogo;3890.1;133.9;615.3
+779;Funcionário 779;Masculino;Operações;Coordenador;Engenharia de Produção;Graduação;6972.71;169.3;513.06
+780;Funcionário 780;Masculino;Operações;;Administração;Tecnólogo;;163.2;345.3
+781;Funcionário 781;Masculino;TI;Assistente;Sistemas de Informação;Ensino Médio;5296.74;166.4;578.99
+782;Funcionário 782;Feminino;TI;Analista;Sistemas de Informação;Graduação;5146.63;201.6;399.22
+783;Funcionário 783;Não Informado;Marketing;Analista;Marketing;Ensino Médio;7102.29;;855.91
+784;Funcionário 784;Feminino;Marketing;Analista;Marketing;Graduação;5237.65;156.2;
+785;Funcionário 785;Masculino;Operações;Assistente;Administração;Tecnólogo;3287.15;135.7;
+786;Funcionário 786;Não Informado;TI;Gerente;Engenharia da Computação;Graduação;3033.54;;
+787;Funcionário 787;Masculino;RH;Assistente;Psicologia;Graduação;2700.62;191.9;622.67
+788;Funcionário 788;Não Informado;;Gerente;;Pós-graduação;2432.04;171.4;868.74
+789;Funcionário 789;Masculino;;Assistente;;Graduação;5069.2;157.7;554.22
+790;Funcionário 790;Feminino;RH;Gerente;Psicologia;Pós-graduação;3562.44;165.0;727.29
+791;Funcionário 791;Masculino;Marketing;Gerente;Publicidade e Propaganda;Graduação;4878.78;135.8;152.33
+792;Funcionário 792;Masculino;;Gerente;;Tecnólogo;;152.1;641.43
+793;Funcionário 793;Não Informado;;Assistente;;Graduação;;161.7;506.08
+794;Funcionário 794;Não Informado;TI;Gerente;Ciência da Computação;Graduação;4278.73;;653.0
+795;Funcionário 795;Masculino;RH;Analista;Psicologia;Pós-graduação;6055.38;129.4;673.53
+796;Funcionário 796;Masculino;Financeiro;;Economia;Tecnólogo;6393.72;166.6;48.75
+797;Funcionário 797;Masculino;Financeiro;Analista;Contabilidade;Graduação;5556.76;165.6;411.28
+798;Funcionário 798;Masculino;Marketing;Assistente;Publicidade e Propaganda;Graduação;3515.27;;366.0
+799;Funcionário 799;Masculino;Operações;Analista;Logística;Ensino Médio;5965.45;160.1;530.43
+800;Funcionário 800;Masculino;;Analista;;Graduação;6033.34;130.3;111.89
+801;Funcionário 801;Feminino;Financeiro;Coordenador;Contabilidade;Graduação;5411.97;130.4;281.9
+802;Funcionário 802;Não Informado;Financeiro;Analista;Administração;Graduação;4094.57;162.7;
+803;Funcionário 803;Não Informado;TI;Assistente;Engenharia da Computação;Pós-graduação;6063.29;146.6;535.38
+804;Funcionário 804;Masculino;RH;Assistente;Administração;Graduação;5634.23;159.8;
+805;Funcionário 805;Não Informado;RH;Analista;Administração;Tecnólogo;324.72;176.8;449.36
+806;Funcionário 806;Masculino;Financeiro;Analista;Contabilidade;Ensino Médio;5966.68;156.5;719.65
+807;Funcionário 807;Não Informado;RH;Gerente;Recursos Humanos;Ensino Médio;2129.39;103.8;132.09
+808;Funcionário 808;Feminino;RH;Analista;Administração;Pós-graduação;;157.0;457.71
+809;Funcionário 809;Não Informado;Financeiro;Analista;Contabilidade;Pós-graduação;4768.89;150.4;
+810;Funcionário 810;Não Informado;Financeiro;Assistente;Administração;Graduação;;155.3;537.4
+811;Funcionário 811;Masculino;;;;Pós-graduação;4852.76;178.0;600.76
+812;Funcionário 812;Não Informado;Marketing;Analista;Comunicação Social;Ensino Médio;3670.08;128.4;882.07
+813;Funcionário 813;Feminino;Marketing;Coordenador;Publicidade e Propaganda;Ensino Médio;4778.97;;
+814;Funcionário 814;Não Informado;Marketing;Assistente;Publicidade e Propaganda;Graduação;6589.71;191.4;382.5
+815;Funcionário 815;Não Informado;RH;Assistente;Administração;Pós-graduação;5039.37;147.5;751.59
+816;Funcionário 816;Não Informado;TI;Assistente;Engenharia da Computação;Pós-graduação;4828.5;169.4;328.27
+817;Funcionário 817;Feminino;Financeiro;Assistente;Administração;Ensino Médio;6115.33;179.3;587.24
+818;Funcionário 818;Feminino;;;;Graduação;5315.54;164.2;814.29
+819;Funcionário 819;Feminino;Operações;Analista;Logística;Ensino Médio;4991.11;146.3;715.46
+820;Funcionário 820;Feminino;TI;Analista;Sistemas de Informação;Graduação;7049.09;145.8;662.22
+821;Funcionário 821;Masculino;;Analista;;Graduação;7332.67;174.9;53.69
+822;Funcionário 822;Masculino;Financeiro;Assistente;Contabilidade;Pós-graduação;5919.99;171.8;
+823;Funcionário 823;Masculino;TI;Coordenador;Ciência da Computação;Pós-graduação;4571.06;144.3;
+824;Funcionário 824;Masculino;Operações;Analista;Administração;Graduação;7245.37;136.5;764.97
+825;Funcionário 825;Não Informado;RH;;Psicologia;Graduação;6774.68;134.4;668.13
+826;Funcionário 826;Masculino;;Analista;;Tecnólogo;6078.35;;552.22
+827;Funcionário 827;Não Informado;Operações;Analista;Administração;Tecnólogo;;;658.89
+828;Funcionário 828;Não Informado;Marketing;Assistente;Publicidade e Propaganda;Pós-graduação;5211.01;;370.08
+829;Funcionário 829;Masculino;Financeiro;Assistente;Contabilidade;Pós-graduação;3884.49;171.1;626.86
+830;Funcionário 830;Feminino;RH;Assistente;Administração;Pós-graduação;;168.8;519.0
+831;Funcionário 831;Masculino;Operações;Coordenador;Administração;Pós-graduação;5360.09;166.1;163.36
+832;Funcionário 832;Feminino;TI;;Sistemas de Informação;Graduação;5150.24;180.0;568.81
+833;Funcionário 833;Não Informado;;Assistente;;Pós-graduação;4287.24;140.7;641.43
+834;Funcionário 834;Não Informado;Operações;Gerente;Administração;Graduação;;203.2;738.68
+835;Funcionário 835;Não Informado;RH;Coordenador;Psicologia;Graduação;2455.8;158.0;605.48
+836;Funcionário 836;Masculino;Financeiro;Assistente;Contabilidade;Graduação;6095.28;145.9;
+837;Funcionário 837;Masculino;TI;Assistente;Sistemas de Informação;Ensino Médio;2213.78;166.1;153.53
+838;Funcionário 838;Feminino;Marketing;;Publicidade e Propaganda;Pós-graduação;5573.9;;425.32
+839;Funcionário 839;Feminino;Marketing;Analista;Publicidade e Propaganda;Ensino Médio;3669.64;139.8;471.5
+840;Funcionário 840;Feminino;Marketing;Analista;Publicidade e Propaganda;Graduação;6317.46;171.3;434.05
+841;Funcionário 841;Masculino;Operações;Coordenador;Engenharia de Produção;Graduação;5129.68;;482.19
+842;Funcionário 842;Não Informado;RH;;Psicologia;Ensino Médio;5371.56;149.9;384.52
+843;Funcionário 843;Feminino;;Assistente;;Graduação;3472.58;;647.23
+844;Funcionário 844;Feminino;;Coordenador;;Graduação;4018.14;175.3;
+845;Funcionário 845;Não Informado;;Assistente;;Pós-graduação;5310.83;;525.03
+846;Funcionário 846;Feminino;TI;Analista;Sistemas de Informação;Ensino Médio;5875.35;163.9;
+847;Funcionário 847;Não Informado;TI;Analista;Sistemas de Informação;Pós-graduação;9393.64;153.1;528.79
+848;Funcionário 848;Masculino;RH;Gerente;Recursos Humanos;Ensino Médio;5334.29;143.1;310.46
+849;Funcionário 849;Não Informado;;Gerente;;Graduação;;135.7;779.85
+850;Funcionário 850;Não Informado;RH;Analista;Psicologia;Pós-graduação;2664.6;135.9;454.78
+851;Funcionário 851;Não Informado;Operações;Analista;Logística;Ensino Médio;3005.16;127.3;212.23
+852;Funcionário 852;Não Informado;Operações;Coordenador;Administração;Pós-graduação;4466.76;177.9;660.26
+853;Funcionário 853;Não Informado;Operações;Assistente;Logística;Pós-graduação;3203.86;;499.33
+854;Funcionário 854;Feminino;TI;Assistente;Ciência da Computação;Pós-graduação;7229.6;163.2;480.61
+855;Funcionário 855;Não Informado;Marketing;Analista;Comunicação Social;Pós-graduação;4384.67;183.6;480.83
+856;Funcionário 856;Masculino;TI;Assistente;Ciência da Computação;Tecnólogo;7073.27;135.6;
+857;Funcionário 857;Não Informado;RH;Coordenador;Psicologia;Tecnólogo;7230.17;141.2;489.35
+858;Funcionário 858;Não Informado;Marketing;Analista;Publicidade e Propaganda;Graduação;5064.17;165.1;345.3
+859;Funcionário 859;Não Informado;Financeiro;;Administração;Ensino Médio;5752.7;;
+860;Funcionário 860;Não Informado;Marketing;Coordenador;Comunicação Social;Graduação;4915.85;148.4;560.69
+861;Funcionário 861;Feminino;RH;Analista;Administração;Tecnólogo;5807.66;;196.36
+862;Funcionário 862;Masculino;RH;Assistente;Recursos Humanos;Tecnólogo;5725.01;166.6;723.94
+863;Funcionário 863;Não Informado;RH;Analista;Recursos Humanos;Graduação;4814.53;151.5;309.23
+864;Funcionário 864;Feminino;RH;Analista;Administração;Ensino Médio;5757.45;200.2;330.08
+865;Funcionário 865;Masculino;Financeiro;Analista;Economia;Graduação;7585.54;178.8;303.62
+866;Funcionário 866;Feminino;Marketing;Coordenador;Comunicação Social;Graduação;6069.52;142.9;227.38
+867;Funcionário 867;Masculino;;Coordenador;;Ensino Médio;5488.7;152.3;345.48
+868;Funcionário 868;Feminino;;Analista;;Graduação;5187.15;;443.27
+869;Funcionário 869;Feminino;Marketing;Assistente;Marketing;Graduação;3480.99;226.1;34.48
+870;Funcionário 870;Masculino;;Coordenador;;Pós-graduação;3459.05;;10.95
+871;Funcionário 871;Não Informado;TI;Analista;Engenharia da Computação;Tecnólogo;5485.03;164.1;356.83
+872;Funcionário 872;Masculino;;Assistente;;Pós-graduação;2945.91;118.3;676.68
+873;Funcionário 873;Feminino;RH;Analista;Psicologia;Tecnólogo;;159.9;239.91
+874;Funcionário 874;Masculino;Marketing;Analista;Comunicação Social;Ensino Médio;6922.27;198.2;484.73
+875;Funcionário 875;Masculino;Operações;Gerente;Administração;Pós-graduação;7871.34;151.8;786.11
+876;Funcionário 876;Masculino;Marketing;Analista;Comunicação Social;Tecnólogo;2501.07;182.1;
+877;Funcionário 877;Feminino;RH;Coordenador;Psicologia;Tecnólogo;7439.97;158.7;412.33
+878;Funcionário 878;Feminino;Marketing;Gerente;Marketing;Tecnólogo;4682.84;151.6;351.37
+879;Funcionário 879;Não Informado;RH;Coordenador;Administração;Graduação;4977.49;155.0;678.39
+880;Funcionário 880;Feminino;;Assistente;;Ensino Médio;4829.88;148.3;592.77
+881;Funcionário 881;Não Informado;Marketing;Gerente;Publicidade e Propaganda;Graduação;6620.82;147.5;623.53
+882;Funcionário 882;Feminino;TI;Analista;Ciência da Computação;Pós-graduação;;133.4;999.28
+883;Funcionário 883;Não Informado;Financeiro;Analista;Contabilidade;Ensino Médio;5684.25;190.1;825.9
+884;Funcionário 884;Masculino;Marketing;Analista;Marketing;Pós-graduação;3582.69;152.1;480.19
+885;Funcionário 885;Feminino;Operações;;Logística;Graduação;5856.18;165.9;
+886;Funcionário 886;Não Informado;Financeiro;Assistente;Economia;Graduação;7314.19;142.5;210.23
+887;Funcionário 887;Feminino;Operações;;Logística;Graduação;4999.37;182.3;157.17
+888;Funcionário 888;Não Informado;Marketing;Assistente;Marketing;Tecnólogo;;154.5;490.07
+889;Funcionário 889;Masculino;RH;Gerente;Psicologia;Pós-graduação;5614.33;158.2;240.12
+890;Funcionário 890;Feminino;Marketing;Analista;Publicidade e Propaganda;Pós-graduação;3800.61;123.4;625.07
+891;Funcionário 891;Masculino;TI;;Sistemas de Informação;Graduação;7267.46;167.9;341.66
+892;Funcionário 892;Masculino;RH;;Administração;Tecnólogo;7559.7;196.2;383.41
+893;Funcionário 893;Masculino;;Coordenador;;Tecnólogo;6052.68;142.6;189.46
+894;Funcionário 894;Masculino;Marketing;Gerente;Marketing;Pós-graduação;5109.93;150.8;922.03
+895;Funcionário 895;Não Informado;Marketing;Analista;Comunicação Social;Ensino Médio;4307.16;137.2;651.77
+896;Funcionário 896;Feminino;RH;Analista;Administração;Pós-graduação;4060.26;162.6;358.01
+897;Funcionário 897;Masculino;;Analista;;Pós-graduação;7566.25;161.3;530.23
+898;Funcionário 898;Não Informado;Financeiro;Analista;Administração;Ensino Médio;7121.62;174.1;764.62
+899;Funcionário 899;Não Informado;Operações;Coordenador;Administração;Pós-graduação;4904.51;171.0;314.43
+900;Funcionário 900;Masculino;Marketing;Analista;Marketing;Ensino Médio;2630.1;143.7;881.32
+901;Funcionário 901;Não Informado;Marketing;Analista;Publicidade e Propaganda;Graduação;751.98;164.5;
+902;Funcionário 902;Não Informado;RH;Analista;Recursos Humanos;Ensino Médio;3374.86;153.4;464.53
+903;Funcionário 903;Não Informado;TI;;Sistemas de Informação;Ensino Médio;4804.07;138.2;
+904;Funcionário 904;Feminino;Operações;Gerente;Logística;Graduação;7101.03;157.5;-7.7
+905;Funcionário 905;Feminino;Financeiro;Assistente;Economia;Tecnólogo;4022.52;;702.02
+906;Funcionário 906;Não Informado;Financeiro;Analista;Contabilidade;Tecnólogo;5757.22;206.3;517.14
+907;Funcionário 907;Masculino;RH;Assistente;Psicologia;Graduação;6954.77;162.8;153.23
+908;Funcionário 908;Masculino;;Assistente;;Graduação;;194.8;171.88
+909;Funcionário 909;Não Informado;TI;Assistente;Ciência da Computação;Graduação;4786.33;159.1;729.07
+910;Funcionário 910;Feminino;Marketing;Gerente;Comunicação Social;Tecnólogo;3036.85;158.9;469.88
+911;Funcionário 911;Não Informado;Operações;Gerente;Logística;Graduação;3196.29;121.0;786.29
+912;Funcionário 912;Masculino;Marketing;Analista;Comunicação Social;Pós-graduação;;;627.32
+913;Funcionário 913;Feminino;;Coordenador;;Graduação;4698.64;144.3;486.69
+914;Funcionário 914;Masculino;Marketing;Assistente;Comunicação Social;Pós-graduação;5183.8;162.2;
+915;Funcionário 915;Masculino;TI;Assistente;Ciência da Computação;Ensino Médio;4929.08;160.3;388.99
+916;Funcionário 916;Não Informado;Financeiro;Analista;Administração;Graduação;5996.22;;519.56
+917;Funcionário 917;Feminino;Operações;Coordenador;Logística;Pós-graduação;3822.97;148.2;487.8
+918;Funcionário 918;Não Informado;TI;Coordenador;Ciência da Computação;Graduação;4496.63;156.7;667.5
+919;Funcionário 919;Masculino;RH;Gerente;Psicologia;Graduação;7844.27;132.4;
+920;Funcionário 920;Feminino;Operações;;Logística;Graduação;3800.32;147.7;664.71
+921;Funcionário 921;Feminino;Marketing;Gerente;Comunicação Social;Pós-graduação;4577.64;152.4;684.13
+922;Funcionário 922;Feminino;RH;;Administração;Ensino Médio;4115.92;135.0;536.15
+923;Funcionário 923;Feminino;Marketing;Analista;Marketing;Ensino Médio;5667.17;153.4;237.41
+924;Funcionário 924;Masculino;TI;Analista;Engenharia da Computação;Ensino Médio;6533.59;143.3;467.9
+925;Funcionário 925;Masculino;TI;Assistente;Sistemas de Informação;Pós-graduação;4252.68;184.7;118.79
+926;Funcionário 926;Não Informado;RH;Coordenador;Administração;Graduação;4352.88;155.1;258.68
+927;Funcionário 927;Não Informado;Financeiro;Gerente;Economia;Ensino Médio;4581.53;156.2;646.08
+928;Funcionário 928;Não Informado;RH;Analista;Recursos Humanos;Ensino Médio;5794.75;168.6;598.98
+929;Funcionário 929;Não Informado;Financeiro;Assistente;Administração;Pós-graduação;3890.91;171.1;
+930;Funcionário 930;Não Informado;RH;Assistente;Recursos Humanos;Ensino Médio;4436.06;125.3;
+931;Funcionário 931;Não Informado;RH;Assistente;Recursos Humanos;Graduação;1441.71;152.5;352.12
+932;Funcionário 932;Não Informado;;Analista;;Ensino Médio;;141.8;397.44
+933;Funcionário 933;Feminino;Financeiro;Assistente;Administração;Pós-graduação;4831.33;157.1;693.05
+934;Funcionário 934;Masculino;Financeiro;;Economia;Tecnólogo;6346.8;149.3;595.34
+935;Funcionário 935;Não Informado;;Assistente;;Graduação;5442.61;163.1;225.76
+936;Funcionário 936;Masculino;Marketing;Analista;Marketing;Graduação;3351.85;140.4;539.77
+937;Funcionário 937;Não Informado;TI;Assistente;Engenharia da Computação;Graduação;2899.62;148.6;527.99
+938;Funcionário 938;Masculino;Financeiro;;Economia;Ensino Médio;;148.2;829.73
+939;Funcionário 939;Masculino;Operações;Analista;Administração;Tecnólogo;;181.7;148.49
+940;Funcionário 940;Feminino;Financeiro;Assistente;Economia;Tecnólogo;6598.89;167.4;343.37
+941;Funcionário 941;Feminino;Marketing;Coordenador;Comunicação Social;Graduação;5095.84;167.4;694.73
+942;Funcionário 942;Feminino;Marketing;Assistente;Publicidade e Propaganda;Graduação;2589.02;154.3;
+943;Funcionário 943;Não Informado;RH;Analista;Psicologia;Graduação;3551.07;152.3;977.12
+944;Funcionário 944;Não Informado;Operações;Analista;Administração;Pós-graduação;;171.2;264.21
+945;Funcionário 945;Não Informado;TI;Assistente;Engenharia da Computação;Tecnólogo;3840.21;175.5;505.82
+946;Funcionário 946;Feminino;Operações;Analista;Engenharia de Produção;Graduação;2765.1;160.3;611.91
+947;Funcionário 947;Masculino;RH;Analista;Psicologia;Pós-graduação;3688.01;182.8;676.21
+948;Funcionário 948;Masculino;Financeiro;Assistente;Contabilidade;Graduação;3973.4;185.5;643.04
+949;Funcionário 949;Masculino;Marketing;Assistente;Publicidade e Propaganda;Tecnólogo;3933.07;126.7;407.58
+950;Funcionário 950;Não Informado;Financeiro;Coordenador;Economia;Graduação;6691.93;168.6;
+951;Funcionário 951;Não Informado;Financeiro;Analista;Administração;Ensino Médio;5157.24;159.1;349.07
+952;Funcionário 952;Não Informado;RH;Assistente;Psicologia;Doutorado;3510.11;167.8;393.0
+953;Funcionário 953;Masculino;TI;Analista;Engenharia da Computação;Pós-graduação;4498.07;182.3;591.33
+954;Funcionário 954;Feminino;Financeiro;Gerente;Contabilidade;Ensino Médio;3680.66;141.6;801.92
+955;Funcionário 955;Masculino;Marketing;Gerente;Comunicação Social;Doutorado;4549.99;127.6;454.37
+956;Funcionário 956;Feminino;Marketing;;Marketing;Pós-graduação;6313.26;182.1;321.93
+957;Funcionário 957;Feminino;;Analista;;Ensino Médio;5378.41;140.0;741.95
+958;Funcionário 958;Feminino;TI;Analista;Ciência da Computação;Ensino Médio;8428.4;146.3;247.04
+959;Funcionário 959;Não Informado;RH;Assistente;Psicologia;Tecnólogo;5563.89;164.1;867.64
+960;Funcionário 960;Masculino;Operações;Assistente;Logística;Pós-graduação;3629.61;146.3;303.18
+961;Funcionário 961;Feminino;Marketing;Analista;Publicidade e Propaganda;Pós-graduação;6214.61;128.2;628.19
+962;Funcionário 962;Feminino;Financeiro;Assistente;Administração;Doutorado;6619.9;160.7;685.34
+963;Funcionário 963;Feminino;RH;Analista;Recursos Humanos;Tecnólogo;6641.25;144.4;
+964;Funcionário 964;Não Informado;TI;Analista;Engenharia da Computação;Doutorado;3358.64;172.0;545.4
+965;Funcionário 965;Feminino;Financeiro;Coordenador;Contabilidade;Ensino Médio;4778.54;149.9;509.91
+966;Funcionário 966;Feminino;Operações;Coordenador;Logística;Graduação;6697.72;146.2;169.36
+967;Funcionário 967;Masculino;;Analista;;Tecnólogo;;155.8;343.84
+968;Funcionário 968;Não Informado;Operações;Assistente;Administração;Tecnólogo;4250.87;181.0;644.93
+969;Funcionário 969;Feminino;;Analista;;Tecnólogo;2859.59;178.2;632.67
+970;Funcionário 970;Masculino;Marketing;Coordenador;Comunicação Social;Tecnólogo;3601.14;138.1;292.42
+971;Funcionário 971;Não Informado;Marketing;Analista;Publicidade e Propaganda;Ensino Médio;3481.31;216.0;569.4
+972;Funcionário 972;Masculino;Operações;Gerente;Administração;Graduação;6875.85;153.5;550.41
+973;Funcionário 973;Feminino;;Assistente;;Pós-graduação;4648.19;137.0;850.18
+974;Funcionário 974;Não Informado;TI;Assistente;Sistemas de Informação;Graduação;3704.97;;416.32
+975;Funcionário 975;Masculino;Operações;Analista;Logística;Tecnólogo;3446.59;;396.03
+976;Funcionário 976;Feminino;Operações;Analista;Engenharia de Produção;Graduação;5212.5;203.1;315.31
+977;Funcionário 977;Masculino;RH;;Psicologia;Tecnólogo;4983.3;176.9;300.14
+978;Funcionário 978;Feminino;;Gerente;;Ensino Médio;7016.11;;574.99
+979;Funcionário 979;Masculino;RH;Analista;Administração;Ensino Médio;5750.03;;359.13
+980;Funcionário 980;Masculino;RH;Assistente;Recursos Humanos;Doutorado;2852.3;177.0;714.94
+981;Funcionário 981;Feminino;Financeiro;Coordenador;Economia;Graduação;4056.53;135.4;374.54
+982;Funcionário 982;Masculino;RH;Analista;Administração;Graduação;6605.11;177.8;806.8
+983;Funcionário 983;Masculino;TI;Assistente;Sistemas de Informação;Graduação;4068.38;149.7;583.55
+984;Funcionário 984;Masculino;Financeiro;Analista;Contabilidade;Graduação;7601.86;158.3;551.68
+985;Funcionário 985;Feminino;TI;Assistente;Ciência da Computação;Pós-graduação;3352.57;162.6;269.91
+986;Funcionário 986;Não Informado;RH;Assistente;Psicologia;Pós-graduação;5858.92;142.4;565.82
+987;Funcionário 987;Masculino;Operações;Assistente;Logística;Pós-graduação;3708.18;133.3;509.1
+988;Funcionário 988;Não Informado;Financeiro;Gerente;Administração;Graduação;4235.61;167.4;626.42
+989;Funcionário 989;Masculino;Operações;Coordenador;Logística;Graduação;6647.87;132.2;397.83
+990;Funcionário 990;Feminino;TI;Assistente;Sistemas de Informação;Graduação;4809.4;108.5;209.27
+991;Funcionário 991;Feminino;TI;Assistente;Engenharia da Computação;Ensino Médio;6220.18;143.3;555.04
+992;Funcionário 992;Não Informado;Financeiro;Analista;Administração;Pós-graduação;5709.94;166.6;
+993;Funcionário 993;Masculino;TI;Assistente;Sistemas de Informação;Tecnólogo;6130.8;154.6;548.78
+994;Funcionário 994;Feminino;Financeiro;Analista;Administração;Graduação;3667.72;185.3;701.13
+995;Funcionário 995;Masculino;TI;;Engenharia da Computação;Graduação;4667.64;163.7;312.07
+996;Funcionário 996;Masculino;Operações;Assistente;Engenharia de Produção;Ensino Médio;5636.38;144.7;23.65
+997;Funcionário 997;Masculino;Marketing;Analista;Comunicação Social;Tecnólogo;3726.39;151.2;595.01
+998;Funcionário 998;Feminino;RH;Gerente;Psicologia;Ensino Médio;7444.25;131.3;581.18
+999;Funcionário 999;Não Informado;RH;Assistente;Recursos Humanos;Ensino Médio;3834.16;181.7;404.59
+1000;Funcionário 1000;Masculino;Marketing;;Marketing;Graduação;4549.99;132.4;
